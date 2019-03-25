@@ -158,7 +158,7 @@ Our unified architecture is extremely fast. Our base YOLO model processes images
 - Github(Official): https://github.com/sfzhang15/RefineDet  
 - Github(PyTorch): https://github.com/lzx1413/PytorchSSD
 
-#### An Analysis of Scale Invariance in Object Detection - SNIP
+#### An Analysis of Scale Invariance in Object Detection - SNIP (CVPR2018)
 
 >An analysis of different techniques for recognizing and detecting objects under extreme scale variation is presented. Scale specific and scale invariant design of detectors are compared by training them with different configurations of input data. By evaluating the performance of different network architectures for classifying small objects on ImageNet, we show that CNNs are not robust to changes in scale. Based on this analysis, we propose to train and test detectors on the same scales of an image-pyramid. Since small and large objects are difficult to recognize at smaller and larger scales respectively, we present a novel training scheme called Scale Normalization for Image Pyramids (SNIP) which selectively back-propagates the gradients of object instances of different sizes as a function of the image scale. On the COCO dataset, our single model performance is 45.7% and an ensemble of 3 networks obtains an mAP of 48.3%. We use off-the-shelf ImageNet-1000 pre-trained models and only train with bounding box supervision. Our submission won the Best Student Entry in the COCO 2017 challenge. Code will be made available at [this http URL](https://github.com/bharatsingh430/snip).
 - arXiv: https://arxiv.org/abs/1711.08189
