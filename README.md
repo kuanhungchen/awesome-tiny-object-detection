@@ -3,29 +3,24 @@ A paper list of Tiny Object Detection and some related task.
 
 ## Contents
 
-* [Tiny Face Detection](#tiny-face-detection)
-* [Tiny Pedestrian Detection](#tiny-pedestrian-detection)
-* [Tiny Object Detection](#tiny-object-detection)
-* [Datasets](#datasets)
-* [Surveys](#surveys)
+ - [Tiny Face Detection](#tiny-face-detection)
+ - [Tiny Pedestrian Detection](#tiny-pedestrian-detection)
+ - [Tiny Object Detection](#tiny-object-detection)
+ - [Datasets](#datasets)
+ - [Surveys](#surveys)
 
 ## Tiny Face Detection
 
 * **Finding Tiny Faces in the Wild with Generative Adversarial Network** [[Paper]](https://ivul.kaust.edu.sa/Documents/Publications/2018/Finding%20Tiny%20Faces%20in%20the%20Wild%20with%20Generative%20Adversarial%20Network.pdf)
     * Yancheng Bai, Yongqiang Zhang, Mingli Ding, Bernard Ghanem ***CVPR 2018***
-
 * **Seeing Small Faces from Robust Anchor’s Perspective** [[Paper]](https://arxiv.org/abs/1802.09058)
     * Chenchen Zhu, Ran Tao, Khoa Luu, Marios Savvides ***CVPR 2018***
-
 * **Face-MagNet: Magnifying Feature Maps to Detect Small Faces** [[Paper]](https://arxiv.org/abs/1803.05258)
     * Pouya Samangouei, Mahyar Najibi, Larry Davis, Rama Chellappa ***WACV 2018***
-
 * **Finding Tiny Faces** [[Paper]](https://arxiv.org/abs/1612.04402)
     * Peiyun Hu, Deva Ramanan ***CVPR 2017***
-
 * **S3FD: Single Shot Scale-invariant Face Detector** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_S3FD_Single_Shot_ICCV_2017_paper.pdf)
     * Shifeng Zhang Xiangyu Zhu Zhen Lei∗ Hailin Shi Xiaobo Wang Stan Z. Li ***ICCV 2017***
-
 * **Detecting and counting tiny faces** [[Paper]](https://arxiv.org/abs/1801.06504)
     * Alexandre Attia, Sharone Dayan ***arXiv 2018***
 
@@ -33,13 +28,10 @@ A paper list of Tiny Object Detection and some related task.
 
 * **High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf) [[Code]](https://github.com/liuwei16/CSP)
     * Wei Liu, ShengCai Liao, Weiqiang Ren, Weidong Hu, Yinan Yu ***CVPR 2019***
-
 * **Feature Selective Anchor-Free Module for Single-Shot Object Detection** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Feature_Selective_Anchor-Free_Module_for_Single-Shot_Object_Detection_CVPR_2019_paper.pdf) [[PyTorch]](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection) [[TensorFlow]](https://github.com/xuannianz/FSAF)
     * Chenchen Zhu, Yihui He, Marios Savvides ***CVPR 2019***
-
 * **Seek and You Will Find: A New Optimized Framework for Efficient Detection of Pedestrian** [[Paper]](https://arxiv.org/abs/1912.10241)
     * Sudip Das, Partha Sarathi Mukherjee, Ujjwal Bhattacharya ***arXiv 2019***
-
 * **Small-scale Pedestrian Detection Based on Somatic Topology Localization and Temporal Feature Aggregation** [[Paper]](https://arxiv.org/abs/1807.01438)
     * Tao Song, Leiyu Sun, Di Xie, Haiming Sun, Shiliang Pu ***ECCV 2018***
 
@@ -47,100 +39,68 @@ A paper list of Tiny Object Detection and some related task.
 
 * **Scale Match for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Benchmark]](https://github.com/ucas-vg/TinyBenchmark)
     * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
-
 * **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network** [[Paper]](https://arxiv.org/abs/1811.04533) [[Code]](https://github.com/qijiezhao/M2Det)
     * Qijie Zhao, Tao Sheng, Yongtao Wang, Zhi Tang, Ying Chen, Ling Cai, Haibin Ling ***AAAI 2019***
-
 * **Enriched Feature Guided Refinement Network for Object Detection** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nie_Enriched_Feature_Guided_Refinement_Network_for_Object_Detection_ICCV_2019_paper.pdf) [[Code]](https://github.com/Ranchentx/EFGRNet)
     * Jing Nie, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, Yanwei Pang, Ling Shao ***ICCV 2019***
-
 * **RepPoints: Point Set Representation for Object Detection** [[Paper]](https://arxiv.org/abs/1904.11490) [[Code]](https://github.com/microsoft/RepPoints)
     * Ze Yang, Shaohui Liu, Han Hu, Liwei Wang, Stephen Lin ***ICCV 2019***
-
 * **Scale-Aware Trident Networks for Object Detection** [[Paper]](https://arxiv.org/abs/1901.01892) [[Code]](https://github.com/TuSimple/simpledet/tree/master/models/tridentnet)
     * Yanghao Li, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang ***ICCV 2019***
-
 * **AugFPN: Improving Multi-scale Feature Learning for Object Detection** [[Paper]](https://arxiv.org/abs/1912.05384)
     * Chaoxu Guo, Bin Fan, Qian Zhang, Shiming Xiang, Chunhong Pan ***CoRR 2019***
-
 * **R2-CNN: Fast Tiny Object Detection in Large-scale Remote Sensing Images** [[Paper]](https://arxiv.org/abs/1902.06042v2)
     * Jiangmiao Pang, Cong Li, Jianping Shi, Zhihai Xu, Huajun Feng ***TGRS 2019***
-
 * **SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization** [[Paper]](https://arxiv.org/abs/1912.05027)
     * Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, Yin Cui, Quoc V. Le, Xiaodan Song ***arXiv 2019***
-
 * **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/toandaominh1997/EfficientDet.Pytorch)
     * Mingxing Tan, Ruoming Pang, Quoc V. Le ***arXiv 2019***
-
 * **Learning Spatial Fusion for Single-Shot Object Detection** [[Paper]](https://arxiv.org/abs/1911.09516) [[Code]](https://github.com/ruinmessi/ASFF)
     * Songtao Liu, Di Huang, Yunhong Wang ***arXiv 2019***
-
 * **Augmentation for small object detection** [[Paper]](https://arxiv.org/abs/1902.07296) [[Code]](https://github.com/gmayday1997/SmallObjectAugmentation)
     * Mate Kisantal, Zbigniew Wojna, Jakub Murawski, Jacek Naruniec, Kyunghyun Cho ***arXiv 2019***
-
 * **Small Object Detection using Context and Attention** [[Paper]](https://arxiv.org/abs/1912.06319)
     * Jeong-Seon Lim, Marcella Astrid, Hyun-Jin Yoon, Seung-Ik Lee ***arXiv 2019***
-
 * **Single-Shot Refinement Neural Network for Object Detection** [[Paper]](https://arxiv.org/abs/1711.06897) [[Code]](https://github.com/sfzhang15/RefineDet)
     * Shifeng Zhang, Longyin Wen, Xiao Bian, Zhen Lei, Stan Z. Li ***CVPR 2018***
-
 * **An Analysis of Scale Invariance in Object Detection - SNIP** [[Paper]](https://arxiv.org/abs/1711.08189)
     * Bharat Singh, Larry S. Davis ***CVPR 2018***
-
 * **Cascade R-CNN Delving into High Quality Object Detection** [[Paper]](https://arxiv.org/abs/1712.00726) [[Code]](https://github.com/zhaoweicai/cascade-rcnn)
     * Zhaowei Cai, Nuno Vasconcelos ***CVPR 2018***
-
 * **Single-Shot Object Detection with Enriched Semantics** [[Paper]](https://arxiv.org/abs/1712.00433)
     * Zhishuai Zhang, Siyuan Qiao, Cihang Xie, Wei Shen, Bo Wang, Alan L. Yuille ***CVPR 2018***
-
 * **Scale-Transferrable Object Detection** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1376.pdf) [[Code]](https://github.com/arvention/STDN-PyTorch)
     * Peng Zhou, Bingbing Ni, Cong Geng, Jianguo Hu, Yi Xu ***CVPR 2018***
-
 * **DetNet: A Backbone network for Object Detection** [[Paper]](https://arxiv.org/abs/1804.06215) [[Code]](https://github.com/guoruoqian/DetNet_pytorch)
     * Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun ***ECCV 2018***
-
 * **SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf)
     * Yancheng Bai, Yongqiang Zhang, Mingli Ding, Bernard Ghanem ***ECCV 2018***
-
 * **SNIPER: Efficient Multi-Scale Training** [[Paper]](https://arxiv.org/abs/1805.09300) [[Code]](https://github.com/MahyarNajibi/SNIPER) 
     * Bharat Singh, Mahyar Najibi, Larry S. Davis ***NIPS 2018***
-
 * **YOLOv3: An Incremental Improvement** [[Paper]](https://arxiv.org/abs/1804.02767) [[Project]](https://pjreddie.com/darknet/yolo/) [[Code]](https://github.com/ayooshkathuria/pytorch-yolo-v3)
     * Joseph Redmon, Ali Farhadi ***arXiv 2018***
-
 * **You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery** [[Paper]](https://arxiv.org/abs/1805.09512) [[Code]](https://github.com/avanetten/yolt)
     * Adam Van Etten ***arXiv 2018***
-
 * **MSDNN: Multi-Scale Deep Neural Network for Salient Object Detection** [[Paper]](https://arxiv.org/abs/1801.04187)
     * Fen Xiao, Wenzheng Deng, Liangchan Peng, Chunhong Cao, Kai Hu, Xieping Gao ***arXiv 2018***
-
 * **MDSSD: Multi-scale Deconvolutional Single Shot Detector for Small Objects** [[Paper]](https://arxiv.org/abs/1805.07009)
     * Mingliang Xu, Lisha Cui, Pei Lv, Xiaoheng Jiang, Jianwei Niu, Bing Zhou, Meng Wang ***arXiv 2018***
-
 * **Perceptual Generative Adversarial Networks for Small Object Detection** [[Paper]](https://arxiv.org/abs/1706.05274)
     * Jianan Li, Xiaodan Liang, Yunchao Wei, Tingfa Xu, Jiashi Feng, Shuicheng Yan ***CVPR 2017***
-
 * **Feature Pyramid Networks for Object Detection** [[Paper]](https://arxiv.org/abs/1612.03144) 
     * Tsung-Yi Lin, Piotr Dollár, Ross Girshick, Kaiming He, Bharath Hariharan, Serge Belongie ***CVPR 2017***
-
 * **DSSD : Deconvolutional Single Shot Detector** [[Paper]](https://arxiv.org/abs/1701.06659) [[Code]](https://github.com/chengyangfu/caffe/tree/dssd)
     * Cheng-Yang Fu, Wei Liu, Ananth Ranga, Ambrish Tyagi, Alexander C. Berg ***CVPR 2017***
-
 * **Accurate Single Stage Detector Using Recurrent Rolling Convolution** [[Paper]](https://arxiv.org/abs/1704.05776) [[Code]](https://github.com/xiaohaoChen/rrc_detection)
     * Jimmy Ren, Xiaohao Chen, Jianbo Liu, Wenxiu Sun, Jiahao Pang, Qiong Yan, Yu-Wing Tai, Li Xu ***CVPR 2017***
-
 * **Focal Loss for Dense Object Detection** [[Paper]](https://arxiv.org/abs/1708.02002)
     * Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár ***ICCV 2017***
-
 * **Deformable Convolutional Networks** [[Paper]](https://arxiv.org/abs/1703.06211) [[Code]](https://github.com/msracver/Deformable-ConvNets)
     * Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei ***ICCV 2017***
-
 * **Feature-Fused SSD: Fast Detection for Small Objects** [[Paper]](https://arxiv.org/abs/1709.05054) [[Code]](https://github.com/wnzhyee/Feature-Fused-SSD)
     * Guimei Cao, Xuemei Xie, Wenzhe Yang, Quan Liao, Guangming Shi, Jinjian Wu ***ICGIP 2017***
-
 * **FSSD: Feature Fusion Single Shot Multibox Detector** [[Paper]](https://arxiv.org/abs/1712.00960) [[Code]](https://github.com/lzx1413/CAFFE_SSD/tree/fssd)
     * Zuoxin Li, Fuqiang Zhou ***arXiv 2017***
-
 * **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks** [[Paper]](https://arxiv.org/abs/1512.04143)
     * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick ***CVPR 2016***
 
@@ -148,19 +108,14 @@ A paper list of Tiny Object Detection and some related task.
 
 * **The EuroCity Persons Dataset: A Novel Benchmark for Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/8634919) [[Project]](https://eurocity-dataset.tudelft.nl/eval/overview/home)
     * Braun, Markus and Krebs, Sebastian and Flohr, Fabian B. and Gavrila, Dariu M. ***TPAMI 2019***
-
 * **DOTA: A Large-scale Dataset for Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/1711.10398) [[Project]](https://captain-whu.github.io/DOTA/)
     * Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang ***CVPR 2018***
-
 * **NightOwls: A Pedestrians at Night Dataset** [[Paper]](http://www.robots.ox.ac.uk/~vgg/publications/2018/Neumann18b/neumann18b.pdf) [[Project]](https://www.nightowls-dataset.org)
     * Lukáš Neumann, Michelle Karg, Shanshan Zhang, Christian Scharfenberger, Eric Piegert, Sarah Mistr, Olga Prokofyeva, Robert Thiel, Andrea Vedaldi, Andrew Zisserman, and Bernt Schiele ***ACCV 2018***
-
 * **DeepScores – A Dataset for Segmentation, Detection and Classification of Tiny Objects** [[Paper]](https://tuggeluk.github.io/papers/preprint_deepscores.pdf) [[Project]](https://tuggeluk.github.io/deepscores/) [[Code]](https://github.com/tuggeluk/DeepScoresExamples)
     * Lukas Tuggener, Ismail Elezi, Jurgen Schmidhuber, Marcello Pelillo, Thilo Stadelmann ***ICPR 2018***
-
 * **CityPersons: A Diverse Dataset for Pedestrian Detection** [[Paper]](https://arxiv.org/abs/1702.05693)
     * Shanshan Zhang, Rodrigo Benenson, Bernt Schiele ***arXiv 2017***
-
 * **Small Object Dataset** [[Paper]](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr15-densdet.pdf) [[Project]](http://visal.cs.cityu.edu.hk/downloads/smallobjects/)
     * Zheng Ma, Lei Yu, Antoni B. Chan ***CVPR 2015***
 
@@ -168,15 +123,11 @@ A paper list of Tiny Object Detection and some related task.
 
 * **A Survey of Deep Learning-based Object Detection** [[Paper]](https://arxiv.org/abs/1907.09408)
     * Licheng Jiao, Fan Zhang, Fang Liu, Shuyuan Yang, Lingling Li, Zhixi Feng, Rong Qu ***IEEE Access 2019***
-
 * **Recent Advances in Deep Learning for Object Detection** [[Paper]](https://arxiv.org/abs/1908.03673)
     * Xiongwei Wu, Doyen Sahoo, Steven C.H. Hoi ***CoRR 2019***
-
 * **Imbalance Problems in Object Detection: A Review** [[Paper]](https://arxiv.org/abs/1909.00169) [[Project]](https://github.com/kemaloksuz/ObjectDetectionImbalance)
     * Kemal Oksuz, Baris Can Cam, Sinan Kalkan, Emre Akbas ***submitted to TPAMI 2019***
-
 * **Object Detection in 20 Years: A Survey** [[Paper]](https://arxiv.org/abs/1905.05055)
     * Zhengxia Zou, Zhenwei Shi, Yuhong Guo, Jieping Ye ***submitted to TPAMI 2019***
-
 * **Speed/accuracy trade-offs for modern convolutional object detectors** [[Paper]](https://arxiv.org/abs/1611.10012)
     * Jonathan Huang, Vivek Rathod, Chen Sun, Menglong Zhu, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Kevin Murphy ***CVPR 2017***
