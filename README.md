@@ -1,5 +1,5 @@
 # Awesome Tiny Object Detection
-A paper list of Tiny Object Detection and some related task.
+A paper list of Tiny Object Detection and some related tasks.
 
 ## Contents
 
