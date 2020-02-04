@@ -1,49 +1,17 @@
 # Awesome Tiny Object Detection
-A paper list of Tiny Object Detection and some related task.
+A curated list of ```Tiny Object Detection``` papers and related resources.
 
-## Contents
+## Table of Contents
 
-* [Tiny Face Detection](#tiny-face-detection)
-* [Tiny Pedestrian Detection](#tiny-pedestrian-detection)
-* [Tiny Object Detection](#tiny-object-detection)
+* [Papers](#papers)
+    * [Tiny Object Detection](#tiny-object-detection) | [Tiny Face Detection](#tiny-face-detection) | [Tiny Pedestrian Detection](#tiny-pedestrian-detection) 
 * [Datasets](#datasets)
 * [Surveys](#surveys)
+* [Articles](#articles)
 
-## Tiny Face Detection
+## Papers
 
-* **Finding Tiny Faces in the Wild with Generative Adversarial Network** [[Paper]](https://ivul.kaust.edu.sa/Documents/Publications/2018/Finding%20Tiny%20Faces%20in%20the%20Wild%20with%20Generative%20Adversarial%20Network.pdf)
-    * Yancheng Bai, Yongqiang Zhang, Mingli Ding, Bernard Ghanem ***CVPR 2018***
-
-* **Seeing Small Faces from Robust Anchor’s Perspective** [[Paper]](https://arxiv.org/abs/1802.09058)
-    * Chenchen Zhu, Ran Tao, Khoa Luu, Marios Savvides ***CVPR 2018***
-
-* **Face-MagNet: Magnifying Feature Maps to Detect Small Faces** [[Paper]](https://arxiv.org/abs/1803.05258)
-    * Pouya Samangouei, Mahyar Najibi, Larry Davis, Rama Chellappa ***WACV 2018***
-
-* **Finding Tiny Faces** [[Paper]](https://arxiv.org/abs/1612.04402)
-    * Peiyun Hu, Deva Ramanan ***CVPR 2017***
-
-* **S3FD: Single Shot Scale-invariant Face Detector** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_S3FD_Single_Shot_ICCV_2017_paper.pdf)
-    * Shifeng Zhang Xiangyu Zhu Zhen Lei∗ Hailin Shi Xiaobo Wang Stan Z. Li ***ICCV 2017***
-
-* **Detecting and counting tiny faces** [[Paper]](https://arxiv.org/abs/1801.06504)
-    * Alexandre Attia, Sharone Dayan ***arXiv 2018***
-
-## Tiny Pedestrian Detection
-
-* **High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf) [[Code]](https://github.com/liuwei16/CSP)
-    * Wei Liu, ShengCai Liao, Weiqiang Ren, Weidong Hu, Yinan Yu ***CVPR 2019***
-
-* **Feature Selective Anchor-Free Module for Single-Shot Object Detection** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Feature_Selective_Anchor-Free_Module_for_Single-Shot_Object_Detection_CVPR_2019_paper.pdf) [[PyTorch]](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection) [[TensorFlow]](https://github.com/xuannianz/FSAF)
-    * Chenchen Zhu, Yihui He, Marios Savvides ***CVPR 2019***
-
-* **Seek and You Will Find: A New Optimized Framework for Efficient Detection of Pedestrian** [[Paper]](https://arxiv.org/abs/1912.10241)
-    * Sudip Das, Partha Sarathi Mukherjee, Ujjwal Bhattacharya ***arXiv 2019***
-
-* **Small-scale Pedestrian Detection Based on Somatic Topology Localization and Temporal Feature Aggregation** [[Paper]](https://arxiv.org/abs/1807.01438)
-    * Tao Song, Leiyu Sun, Di Xie, Haiming Sun, Shiliang Pu ***ECCV 2018***
-
-## Tiny Object Detection
+### Tiny Object Detection
 
 * **Scale Match for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Benchmark]](https://github.com/ucas-vg/TinyBenchmark)
     * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
@@ -144,6 +112,40 @@ A paper list of Tiny Object Detection and some related task.
 * **Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks** [[Paper]](https://arxiv.org/abs/1512.04143)
     * Sean Bell, C. Lawrence Zitnick, Kavita Bala, Ross Girshick ***CVPR 2016***
 
+### Tiny Face Detection
+
+* **Finding Tiny Faces in the Wild with Generative Adversarial Network** [[Paper]](https://ivul.kaust.edu.sa/Documents/Publications/2018/Finding%20Tiny%20Faces%20in%20the%20Wild%20with%20Generative%20Adversarial%20Network.pdf)
+    * Yancheng Bai, Yongqiang Zhang, Mingli Ding, Bernard Ghanem ***CVPR 2018***
+
+* **Seeing Small Faces from Robust Anchor’s Perspective** [[Paper]](https://arxiv.org/abs/1802.09058)
+    * Chenchen Zhu, Ran Tao, Khoa Luu, Marios Savvides ***CVPR 2018***
+
+* **Face-MagNet: Magnifying Feature Maps to Detect Small Faces** [[Paper]](https://arxiv.org/abs/1803.05258)
+    * Pouya Samangouei, Mahyar Najibi, Larry Davis, Rama Chellappa ***WACV 2018***
+
+* **Finding Tiny Faces** [[Paper]](https://arxiv.org/abs/1612.04402)
+    * Peiyun Hu, Deva Ramanan ***CVPR 2017***
+
+* **S3FD: Single Shot Scale-invariant Face Detector** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_S3FD_Single_Shot_ICCV_2017_paper.pdf)
+    * Shifeng Zhang Xiangyu Zhu Zhen Lei∗ Hailin Shi Xiaobo Wang Stan Z. Li ***ICCV 2017***
+
+* **Detecting and counting tiny faces** [[Paper]](https://arxiv.org/abs/1801.06504)
+    * Alexandre Attia, Sharone Dayan ***arXiv 2018***
+
+### Tiny Pedestrian Detection
+
+* **High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf) [[Code]](https://github.com/liuwei16/CSP)
+    * Wei Liu, ShengCai Liao, Weiqiang Ren, Weidong Hu, Yinan Yu ***CVPR 2019***
+
+* **Feature Selective Anchor-Free Module for Single-Shot Object Detection** [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Feature_Selective_Anchor-Free_Module_for_Single-Shot_Object_Detection_CVPR_2019_paper.pdf) [[PyTorch]](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection) [[TensorFlow]](https://github.com/xuannianz/FSAF)
+    * Chenchen Zhu, Yihui He, Marios Savvides ***CVPR 2019***
+
+* **Seek and You Will Find: A New Optimized Framework for Efficient Detection of Pedestrian** [[Paper]](https://arxiv.org/abs/1912.10241)
+    * Sudip Das, Partha Sarathi Mukherjee, Ujjwal Bhattacharya ***arXiv 2019***
+
+* **Small-scale Pedestrian Detection Based on Somatic Topology Localization and Temporal Feature Aggregation** [[Paper]](https://arxiv.org/abs/1807.01438)
+    * Tao Song, Leiyu Sun, Di Xie, Haiming Sun, Shiliang Pu ***ECCV 2018***
+
 ## Datasets
 
 * **The EuroCity Persons Dataset: A Novel Benchmark for Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/8634919) [[Project]](https://eurocity-dataset.tudelft.nl/eval/overview/home)
@@ -180,3 +182,10 @@ A paper list of Tiny Object Detection and some related task.
 
 * **Speed/accuracy trade-offs for modern convolutional object detectors** [[Paper]](https://arxiv.org/abs/1611.10012)
     * Jonathan Huang, Vivek Rathod, Chen Sun, Menglong Zhu, Anoop Korattikara, Alireza Fathi, Ian Fischer, Zbigniew Wojna, Yang Song, Sergio Guadarrama, Kevin Murphy ***CVPR 2017***
+
+## Articles
+
+* **[How do you do object detection using CNNs on small objects like ping pong balls? - Quora](https://www.quora.com/How-do-you-do-object-detection-using-CNNs-on-small-objects-like-ping-pong-balls)**
+* **[深度学习在 small object detection 有什么进展? - Zhihu](https://www.zhihu.com/question/272322209)**
+* **[小目标检测问题中“小目标”如何定义？其主要技术难点在哪？有哪些比较好的传统的或深度学习方法？ - Zhihu](https://www.zhihu.com/question/269877902)**
+* **[Small objects detection problem - Medium](https://medium.com/datadriveninvestor/small-objects-detection-problem-c5b430996162)**
