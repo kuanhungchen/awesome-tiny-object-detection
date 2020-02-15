@@ -23,10 +23,18 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Ze Yang, Shaohui Liu, Han Hu, Liwei Wang, Stephen Lin ***ICCV 2019***
 * **Scale-Aware Trident Networks for Object Detection** [[Paper]](https://arxiv.org/abs/1901.01892) [[Code]](https://github.com/TuSimple/simpledet/tree/master/models/tridentnet)
     * Yanghao Li, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang ***ICCV 2019***
+* **SCRDet: Towards More Robust Detection for Small, Cluttered and Rotated Objects** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SCRDet_Towards_More_Robust_Detection_for_Small_Cluttered_and_Rotated_ICCV_2019_paper.pdf)
+	* Xue Yang, Jirui Yang, Junchi Yan, Yue Zhang, Tengfei Zhang, Zhi Guo, Xian Sun, Kun Fu ***ICCV 2019***
+* **Clustered Object Detection in Aerial Images** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Clustered_Object_Detection_in_Aerial_Images_ICCV_2019_paper.pdf)
+	* Fan Yang, Heng Fan, Peng Chu, Erik Blasch, Haibin Ling ***ICCV 2019***
+* **Learning Object-Wise Semantic Representation for Detection in Remote Sensing Imagery** [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Li_Learning_Object-Wise_Semantic_Representation_for_Detection_in_Remote_Sensing_Imagery_CVPRW_2019_paper.pdf)
+	* Chengzheng Li, Chunyan Xu, Zhen Cui, Dan Wang, Zequn Jie, Tong Zhang, Jian Yang ***CVPR Workshop 2019***
 * **AugFPN: Improving Multi-scale Feature Learning for Object Detection** [[Paper]](https://arxiv.org/abs/1912.05384)
     * Chaoxu Guo, Bin Fan, Qian Zhang, Shiming Xiang, Chunhong Pan ***CoRR 2019***
 * **R2-CNN: Fast Tiny Object Detection in Large-scale Remote Sensing Images** [[Paper]](https://arxiv.org/abs/1902.06042v2)
     * Jiangmiao Pang, Cong Li, Jianping Shi, Zhihai Xu, Huajun Feng ***TGRS 2019***
+* **R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object** [[Paper]](https://arxiv.org/abs/1908.05612) [[Code]](https://github.com/Thinklab-SJTU/R3Det_Tensorflow)
+	* Yang, Xue and Liu, Qingqing and Yan, Junchi and Li, Ang and Zhiqiang, Zhang and Gang, Yu ***arXiv 2019***
 * **SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization** [[Paper]](https://arxiv.org/abs/1912.05027)
     * Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, Yin Cui, Quoc V. Le, Xiaodan Song ***arXiv 2019***
 * **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/toandaominh1997/EfficientDet.Pytorch)
