@@ -15,6 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 * **Scale Match for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Benchmark]](https://github.com/ucas-vg/TinyBenchmark)
     * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
+* **MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection** [[Paper]](https://arxiv.org/abs/2001.03194) [[Code]](https://github.com/arashwan/matrixnet)
+    * Abdullah Rashwan, Rishav Agarwal, Agastya Kalra, Pascal Poupart ***arXiv 2020***
 * **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network** [[Paper]](https://arxiv.org/abs/1811.04533) [[Code]](https://github.com/qijiezhao/M2Det)
     * Qijie Zhao, Tao Sheng, Yongtao Wang, Zhi Tang, Ying Chen, Ling Cai, Haibin Ling ***AAAI 2019***
 * **Enriched Feature Guided Refinement Network for Object Detection** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nie_Enriched_Feature_Guided_Refinement_Network_for_Object_Detection_ICCV_2019_paper.pdf) [[Code]](https://github.com/Ranchentx/EFGRNet)
