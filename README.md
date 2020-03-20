@@ -120,7 +120,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 * **The EuroCity Persons Dataset: A Novel Benchmark for Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/8634919) [[Project]](https://eurocity-dataset.tudelft.nl/eval/overview/home)
     * Braun, Markus and Krebs, Sebastian and Flohr, Fabian B. and Gavrila, Dariu M. ***TPAMI 2019***
-* **WiderPerson: A Diverse Dataset for Dense Pedestrian Detection in the Wild** [Paper](https://arxiv.org/abs/1909.12118) [Project](http://www.cbsr.ia.ac.cn/users/sfzhang/WiderPerson/)
+* **WiderPerson: A Diverse Dataset for Dense Pedestrian Detection in the Wild** [[Paper]](https://arxiv.org/abs/1909.12118) [[Project]](http://www.cbsr.ia.ac.cn/users/sfzhang/WiderPerson/)
     * Shifeng Zhang, Yiliang Xie, Jun Wan, Hansheng Xia, Stan Z. Li, Guodong Guo ***TMM 2019***
 * **DOTA: A Large-scale Dataset for Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/1711.10398) [[Project]](https://captain-whu.github.io/DOTA/)
     * Gui-Song Xia, Xiang Bai, Jian Ding, Zhen Zhu, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang ***CVPR 2018***
@@ -128,17 +128,17 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Lukáš Neumann, Michelle Karg, Shanshan Zhang, Christian Scharfenberger, Eric Piegert, Sarah Mistr, Olga Prokofyeva, Robert Thiel, Andrea Vedaldi, Andrew Zisserman, and Bernt Schiele ***ACCV 2018***
 * **DeepScores – A Dataset for Segmentation, Detection and Classification of Tiny Objects** [[Paper]](https://tuggeluk.github.io/papers/preprint_deepscores.pdf) [[Project]](https://tuggeluk.github.io/deepscores/) [[Code]](https://github.com/tuggeluk/DeepScoresExamples)
     * Lukas Tuggener, Ismail Elezi, Jurgen Schmidhuber, Marcello Pelillo, Thilo Stadelmann ***ICPR 2018***
-* **Bosch Small Traffic Lights Dataset** [Paper](https://ieeexplore.ieee.org/document/7989163) [Project](https://hci.iwr.uni-heidelberg.de/node/6132) [Code](https://github.com/bosch-ros-pkg/bstld)
+* **Bosch Small Traffic Lights Dataset** [[Paper]](https://ieeexplore.ieee.org/document/7989163) [[Project]](https://hci.iwr.uni-heidelberg.de/node/6132) [[Code]](https://github.com/bosch-ros-pkg/bstld)
     * Karsten Behrendt, Libor Novak, Rami Botros ***ICRA 2017***
 * **CityPersons: A Diverse Dataset for Pedestrian Detection** [[Paper]](https://arxiv.org/abs/1702.05693)
     * Shanshan Zhang, Rodrigo Benenson, Bernt Schiele ***arXiv 2017***
-* **WIDER FACE: A Face Detection Benchmark** [Paper](https://arxiv.org/abs/1511.06523) [Project](http://shuoyang1213.me/WIDERFACE/)
+* **WIDER FACE: A Face Detection Benchmark** [[Paper]](https://arxiv.org/abs/1511.06523) [[Project]](http://shuoyang1213.me/WIDERFACE/)
     * Shuo Yang, Ping Luo, Chen Change Loy, Xiaoou Tang ***CVPR 2016***
 * **Small Object Dataset** [[Paper]](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr15-densdet.pdf) [[Project]](http://visal.cs.cityu.edu.hk/downloads/smallobjects/)
     * Zheng Ma, Lei Yu, Antoni B. Chan ***CVPR 2015***
-* **Caltech Pedestrian Detection Benchmark** [Paper](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/files/CVPR09pedestrians.pdf) [Paper](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/files/PAMI12pedestrians.pdf) [Project](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
+* **Caltech Pedestrian Detection Benchmark** [[Paper]](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/files/CVPR09pedestrians.pdf) [[Paper]](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/files/PAMI12pedestrians.pdf) [[Project]](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
     * Piotr Dollár, Christian Wojek, Bernt Schiele, Pietro Perona ***CVPR 2009, TPAMI 2012***
-* **Penn-Fudan Database for Pedestrian Detection and Segmentation** [Paper](https://www.seas.upenn.edu/~jshi/papers/obj_det_liming_accv07.pdf) [Project](https://www.cis.upenn.edu/~jshi/ped_html/)
+* **Penn-Fudan Database for Pedestrian Detection and Segmentation** [[Paper]](https://www.seas.upenn.edu/~jshi/papers/obj_det_liming_accv07.pdf) [[Project]](https://www.cis.upenn.edu/~jshi/ped_html/)
     * Liming Wang, Jianbo Shi, Gang Song, I-fan Shen ***ACCV 2007***
 
 ## Surveys
