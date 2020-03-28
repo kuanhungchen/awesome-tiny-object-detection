@@ -3,11 +3,17 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Table of Contents
 
+* [News](#news)
 * [Papers](#papers)
     * [Tiny Object Detection](#tiny-object-detection) | [Tiny Face Detection](#tiny-face-detection) | [Tiny Pedestrian Detection](#tiny-pedestrian-detection) 
 * [Datasets](#datasets)
 * [Surveys](#surveys)
 * [Articles](#articles)
+
+## News
+
+* **1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)** [[Project]](https://rlq-tod.github.io/index.html)
+    * August 23rd - 27th, SEC, GLASGOW
 
 ## Papers
 
@@ -118,6 +124,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Datasets
 
+* **TinyPerson Dataset for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Project]](http://vision.ucas.ac.cn/resource.asp)
+    * Yu, Xuehui and Gong, Yuqi and Jiang, Nan and Ye, Qixiang and Han, Zhenjun ***WACV 2020***
 * **The EuroCity Persons Dataset: A Novel Benchmark for Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/8634919) [[Project]](https://eurocity-dataset.tudelft.nl/eval/overview/home)
     * Braun, Markus and Krebs, Sebastian and Flohr, Fabian B. and Gavrila, Dariu M. ***TPAMI 2019***
 * **WiderPerson: A Diverse Dataset for Dense Pedestrian Detection in the Wild** [[Paper]](https://arxiv.org/abs/1909.12118) [[Project]](http://www.cbsr.ia.ac.cn/users/sfzhang/WiderPerson/)
