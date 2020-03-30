@@ -3,14 +3,23 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Table of Contents
 
-* [News](#news)
+* [Updates](#updates)
+* [Benchmarks](#benchmarks)
 * [Papers](#papers)
     * [Tiny Object Detection](#tiny-object-detection) | [Tiny Face Detection](#tiny-face-detection) | [Tiny Pedestrian Detection](#tiny-pedestrian-detection) 
 * [Datasets](#datasets)
 * [Surveys](#surveys)
 * [Articles](#articles)
 
-## News
+## Updates
+
+* (3/31) Add dataset `BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos`
+* (3/31) Add paper `Robust Face Detection via Learning Small Faces on Hard Images`
+* (3/31) Add paper `Extended Feature Pyramid Network for Small Object Detection`
+* (3/28) Add benchmark `1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)`
+* (3/28) Add dataset `TinyPerson Dataset for Tiny Person Detection`
+
+## Benchmarks
 
 * **1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)** [[Project]](https://rlq-tod.github.io/index.html)
     * August 23rd - 27th, SEC, GLASGOW
@@ -21,6 +30,10 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 * **Scale Match for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Benchmark]](https://github.com/ucas-vg/TinyBenchmark)
     * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
+* **Robust Face Detection via Learning Small Faces on Hard Images** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Robust_Face_Detection_via_Learning_Small_Faces_on_Hard_Images_WACV_2020_paper.pdf) [[Code]](https://github.com/bairdzhang/smallhardface)
+    * Zhishuai Zhang, Wei Shen, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille ***WACV 2020***
+* **Extended Feature Pyramid Network for Small Object Detection** [[Paper]](https://arxiv.org/abs/2003.07021)
+    * Chunfang Deng, Mengmeng Wang, Liang Liu, and Yong Liu ***arXiv 2020***
 * **MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection** [[Paper]](https://arxiv.org/abs/2001.03194) [[Code]](https://github.com/arashwan/matrixnet)
     * Abdullah Rashwan, Rishav Agarwal, Agastya Kalra, Pascal Poupart ***arXiv 2020***
 * **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network** [[Paper]](https://arxiv.org/abs/1811.04533) [[Code]](https://github.com/qijiezhao/M2Det)
@@ -124,6 +137,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Datasets
 
+* **BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Bondi_BIRDSAI_A_Dataset_for_Detection_and_Tracking_in_Aerial_Thermal_WACV_2020_paper.pdf) [[Project]](https://sites.google.com/view/elizabethbondi/dataset)
+    * Elizabeth Bondi, Raghav Jain, Palash Aggrawal, Saket Anand, Robert Hannaford, Ashish Kapoor, Jim Piavis, Shital Shah, Lucas Joppa, Bistra Dilkina, Milind Tambe ***WACV 2020***
 * **TinyPerson Dataset for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Project]](http://vision.ucas.ac.cn/resource.asp)
     * Yu, Xuehui and Gong, Yuqi and Jiang, Nan and Ye, Qixiang and Han, Zhenjun ***WACV 2020***
 * **The EuroCity Persons Dataset: A Novel Benchmark for Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/8634919) [[Project]](https://eurocity-dataset.tudelft.nl/eval/overview/home)
