@@ -4,7 +4,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 ## Table of Contents
 
 * [Updates](#updates)
-* [Benchmarks](#benchmarks)
+* [Activities](#activities)
 * [Papers](#papers)
     * [Tiny Object Detection](#tiny-object-detection) | [Tiny Face Detection](#tiny-face-detection) | [Tiny Pedestrian Detection](#tiny-pedestrian-detection) 
 * [Datasets](#datasets)
@@ -16,10 +16,10 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * (3/31) Add dataset `BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos`
 * (3/31) Add paper `Robust Face Detection via Learning Small Faces on Hard Images`
 * (3/31) Add paper `Extended Feature Pyramid Network for Small Object Detection`
-* (3/28) Add benchmark `1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)`
+* (3/28) Add activity `1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)`
 * (3/28) Add dataset `TinyPerson Dataset for Tiny Person Detection`
 
-## Benchmarks
+## Activities
 
 * **1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)** [[Project]](https://rlq-tod.github.io/index.html)
     * August 23rd - 27th, SEC, GLASGOW
