@@ -13,6 +13,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (4/2) Add paper `Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detecti`
+* (4/2) Add paper `Deep Feature Pyramid Reconfiguration for Object Detection`
 * (3/31) Add dataset `BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos`
 * (3/31) Add paper `Robust Face Detection via Learning Small Faces on Hard Images`
 * (3/31) Add paper `Extended Feature Pyramid Network for Small Object Detection`
@@ -38,6 +40,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Abdullah Rashwan, Rishav Agarwal, Agastya Kalra, Pascal Poupart ***arXiv 2020***
 * **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network** [[Paper]](https://arxiv.org/abs/1811.04533) [[Code]](https://github.com/qijiezhao/M2Det)
     * Qijie Zhao, Tao Sheng, Yongtao Wang, Zhi Tang, Ying Chen, Ling Cai, Haibin Ling ***AAAI 2019***
+* **Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detecti** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) [[Project]](http://vision.snu.ac.kr/project_pages/iccv19_noh/views/)
+    * Junhyug Noh, Wonho Bae, Wonhee Lee, Jinhwan Seo, Gunhee Kim ***ICCV 2019***
 * **Enriched Feature Guided Refinement Network for Object Detection** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nie_Enriched_Feature_Guided_Refinement_Network_for_Object_Detection_ICCV_2019_paper.pdf) [[Code]](https://github.com/Ranchentx/EFGRNet)
     * Jing Nie, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, Yanwei Pang, Ling Shao ***ICCV 2019***
 * **RepPoints: Point Set Representation for Object Detection** [[Paper]](https://arxiv.org/abs/1904.11490) [[Code]](https://github.com/microsoft/RepPoints)
@@ -76,6 +80,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Zhishuai Zhang, Siyuan Qiao, Cihang Xie, Wei Shen, Bo Wang, Alan L. Yuille ***CVPR 2018***
 * **Scale-Transferrable Object Detection** [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1376.pdf) [[Code]](https://github.com/arvention/STDN-PyTorch)
     * Peng Zhou, Bingbing Ni, Cong Geng, Jianguo Hu, Yi Xu ***CVPR 2018***
+* **Deep Feature Pyramid Reconfiguration for Object Detection** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tao_Kong_Deep_Feature_Pyramid_ECCV_2018_paper.pdf)
+    * Tao Kong, Fuchun Sun, Wenbing Huang, Huaping Liu ***ECCV 2018***
 * **DetNet: A Backbone network for Object Detection** [[Paper]](https://arxiv.org/abs/1804.06215) [[Code]](https://github.com/guoruoqian/DetNet_pytorch)
     * Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun ***ECCV 2018***
 * **SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf)
