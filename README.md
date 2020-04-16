@@ -13,13 +13,9 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (4/16) Add project and code for `Finding Tiny Faces`
 * (4/2) Add paper `Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detecti`
 * (4/2) Add paper `Deep Feature Pyramid Reconfiguration for Object Detection`
-* (3/31) Add dataset `BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos`
-* (3/31) Add paper `Robust Face Detection via Learning Small Faces on Hard Images`
-* (3/31) Add paper `Extended Feature Pyramid Network for Small Object Detection`
-* (3/28) Add activity `1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)`
-* (3/28) Add dataset `TinyPerson Dataset for Tiny Person Detection`
 
 ## Activities
 
@@ -123,7 +119,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Chenchen Zhu, Ran Tao, Khoa Luu, Marios Savvides ***CVPR 2018***
 * **Face-MagNet: Magnifying Feature Maps to Detect Small Faces** [[Paper]](https://arxiv.org/abs/1803.05258)
     * Pouya Samangouei, Mahyar Najibi, Larry Davis, Rama Chellappa ***WACV 2018***
-* **Finding Tiny Faces** [[Paper]](https://arxiv.org/abs/1612.04402)
+* **Finding Tiny Faces** [[Paper]](https://arxiv.org/abs/1612.04402) [[Project]](http://www.cs.cmu.edu/~peiyunh/tiny/index.html) [[Code]](https://github.com/peiyunh/tiny)
     * Peiyun Hu, Deva Ramanan ***CVPR 2017***
 * **S3FD: Single Shot Scale-invariant Face Detector** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_S3FD_Single_Shot_ICCV_2017_paper.pdf)
     * Shifeng Zhang Xiangyu Zhu Zhen Lei∗ Hailin Shi Xiaobo Wang Stan Z. Li ***ICCV 2017***
