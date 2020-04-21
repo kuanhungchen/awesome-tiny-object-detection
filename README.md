@@ -6,7 +6,9 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * [Updates](#updates)
 * [Activities](#activities)
 * [Papers](#papers)
-    * [Tiny Object Detection](#tiny-object-detection) | [Tiny Face Detection](#tiny-face-detection) | [Tiny Pedestrian Detection](#tiny-pedestrian-detection) 
+    * [Tiny Object Detection](#tiny-object-detection)
+    * [Tiny Face Detection](#tiny-face-detection)
+    * [Tiny Pedestrian Detection](#tiny-pedestrian-detection) 
 * [Datasets](#datasets)
 * [Surveys](#surveys)
 * [Articles](#articles)
@@ -14,8 +16,6 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 ## Updates
 
 * (4/16) Add project and code for `Finding Tiny Faces`
-* (4/2) Add paper `Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detecti`
-* (4/2) Add paper `Deep Feature Pyramid Reconfiguration for Object Detection`
 
 ## Activities
 
