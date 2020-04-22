@@ -27,6 +27,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/google/automl/tree/master/efficientdet) [[PyTorch]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) [[PyTorch]](https://github.com/toandaominh1997/EfficientDet.Pytorch) [[TensorFlow]](https://github.com/xuannianz/EfficientDet)
+    * Mingxing Tan, Ruoming Pang, Quoc V. Le ***CVPR 2020***
 * **Scale Match for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Benchmark]](https://github.com/ucas-vg/TinyBenchmark)
     * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
 * **Robust Face Detection via Learning Small Faces on Hard Images** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Robust_Face_Detection_via_Learning_Small_Faces_on_Hard_Images_WACV_2020_paper.pdf) [[Code]](https://github.com/bairdzhang/smallhardface)
@@ -59,8 +61,6 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 	* Yang, Xue and Liu, Qingqing and Yan, Junchi and Li, Ang and Zhiqiang, Zhang and Gang, Yu ***arXiv 2019***
 * **SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization** [[Paper]](https://arxiv.org/abs/1912.05027)
     * Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, Yin Cui, Quoc V. Le, Xiaodan Song ***arXiv 2019***
-* **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[PyTorch]](https://github.com/toandaominh1997/EfficientDet.Pytorch) [[TensorFlow]](https://github.com/xuannianz/EfficientDet)
-    * Mingxing Tan, Ruoming Pang, Quoc V. Le ***arXiv 2019***
 * **Learning Spatial Fusion for Single-Shot Object Detection** [[Paper]](https://arxiv.org/abs/1911.09516) [[Code]](https://github.com/ruinmessi/ASFF)
     * Songtao Liu, Di Huang, Yunhong Wang ***arXiv 2019***
 * **Augmentation for small object detection** [[Paper]](https://arxiv.org/abs/1902.07296) [[Code]](https://github.com/gmayday1997/SmallObjectAugmentation)
