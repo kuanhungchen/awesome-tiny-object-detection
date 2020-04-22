@@ -15,7 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
-* (4/22) Add TensorFlow code for `EfficientDet: Scalable and Efficient Object Detection`
+* (4/22) Add paper `Efficient Object Detection in Large Images Using Deep Reinforcement Learning`
+* (4/22) Add more code for `EfficientDet: Scalable and Efficient Object Detection`
 * (4/16) Add project and code for `Finding Tiny Faces`
 
 ## Activities
@@ -29,10 +30,10 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 * **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/google/automl/tree/master/efficientdet) [[PyTorch]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) [[PyTorch]](https://github.com/toandaominh1997/EfficientDet.Pytorch) [[TensorFlow]](https://github.com/xuannianz/EfficientDet)
     * Mingxing Tan, Ruoming Pang, Quoc V. Le ***CVPR 2020***
+* **Efficient Object Detection in Large Images Using Deep Reinforcement Learning** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.pdf)
+    * Burak Uzkent, Christopher Yeh, Stefano Ermon ***WACV 2020***
 * **Scale Match for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Benchmark]](https://github.com/ucas-vg/TinyBenchmark)
     * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
-* **Robust Face Detection via Learning Small Faces on Hard Images** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Robust_Face_Detection_via_Learning_Small_Faces_on_Hard_Images_WACV_2020_paper.pdf) [[Code]](https://github.com/bairdzhang/smallhardface)
-    * Zhishuai Zhang, Wei Shen, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille ***WACV 2020***
 * **Extended Feature Pyramid Network for Small Object Detection** [[Paper]](https://arxiv.org/abs/2003.07021)
     * Chunfang Deng, Mengmeng Wang, Liang Liu, and Yong Liu ***arXiv 2020***
 * **MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection** [[Paper]](https://arxiv.org/abs/2001.03194) [[Code]](https://github.com/arashwan/matrixnet)
@@ -114,6 +115,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Face Detection
 
+* **Robust Face Detection via Learning Small Faces on Hard Images** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Robust_Face_Detection_via_Learning_Small_Faces_on_Hard_Images_WACV_2020_paper.pdf) [[Code]](https://github.com/bairdzhang/smallhardface)
+    * Zhishuai Zhang, Wei Shen, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille ***WACV 2020***
 * **Finding Tiny Faces in the Wild with Generative Adversarial Network** [[Paper]](https://ivul.kaust.edu.sa/Documents/Publications/2018/Finding%20Tiny%20Faces%20in%20the%20Wild%20with%20Generative%20Adversarial%20Network.pdf)
     * Yancheng Bai, Yongqiang Zhang, Mingli Ding, Bernard Ghanem ***CVPR 2018***
 * **Seeing Small Faces from Robust Anchor’s Perspective** [[Paper]](https://arxiv.org/abs/1802.09058)
