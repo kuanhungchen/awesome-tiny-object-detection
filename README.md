@@ -15,6 +15,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (4/22) Add TensorFlow code for `EfficientDet: Scalable and Efficient Object Detection`
 * (4/16) Add project and code for `Finding Tiny Faces`
 
 ## Activities
@@ -58,7 +59,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 	* Yang, Xue and Liu, Qingqing and Yan, Junchi and Li, Ang and Zhiqiang, Zhang and Gang, Yu ***arXiv 2019***
 * **SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization** [[Paper]](https://arxiv.org/abs/1912.05027)
     * Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, Yin Cui, Quoc V. Le, Xiaodan Song ***arXiv 2019***
-* **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/toandaominh1997/EfficientDet.Pytorch)
+* **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[PyTorch]](https://github.com/toandaominh1997/EfficientDet.Pytorch) [[TensorFlow]](https://github.com/xuannianz/EfficientDet)
     * Mingxing Tan, Ruoming Pang, Quoc V. Le ***arXiv 2019***
 * **Learning Spatial Fusion for Single-Shot Object Detection** [[Paper]](https://arxiv.org/abs/1911.09516) [[Code]](https://github.com/ruinmessi/ASFF)
     * Songtao Liu, Di Huang, Yunhong Wang ***arXiv 2019***
