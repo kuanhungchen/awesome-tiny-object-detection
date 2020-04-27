@@ -15,6 +15,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (4/27) Add PyTorch implementation for `Single-Shot Object Detection with Enriched Semantics`
 * (4/22) Add paper `Efficient Object Detection in Large Images Using Deep Reinforcement Learning`
 * (4/22) Add more code for `EfficientDet: Scalable and Efficient Object Detection`
 * (4/16) Add project and code for `Finding Tiny Faces`
@@ -68,7 +69,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Mate Kisantal, Zbigniew Wojna, Jakub Murawski, Jacek Naruniec, Kyunghyun Cho ***arXiv 2019***
 * **Small Object Detection using Context and Attention** [[Paper]](https://arxiv.org/abs/1912.06319)
     * Jeong-Seon Lim, Marcella Astrid, Hyun-Jin Yoon, Seung-Ik Lee ***arXiv 2019***
-* **Single-Shot Refinement Neural Network for Object Detection** [[Paper]](https://arxiv.org/abs/1711.06897) [[Code]](https://github.com/sfzhang15/RefineDet)
+* **Single-Shot Refinement Neural Network for Object Detection** [[Paper]](https://arxiv.org/abs/1711.06897) [[Code]](https://github.com/sfzhang15/RefineDet) [[PyTorch]](https://github.com/dd604/refinedet.pytorch)
     * Shifeng Zhang, Longyin Wen, Xiao Bian, Zhen Lei, Stan Z. Li ***CVPR 2018***
 * **An Analysis of Scale Invariance in Object Detection - SNIP** [[Paper]](https://arxiv.org/abs/1711.08189)
     * Bharat Singh, Larry S. Davis ***CVPR 2018***
