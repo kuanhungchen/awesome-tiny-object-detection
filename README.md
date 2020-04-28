@@ -18,7 +18,6 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * (4/27) Add PyTorch implementation for `Single-Shot Object Detection with Enriched Semantics`
 * (4/22) Add paper `Efficient Object Detection in Large Images Using Deep Reinforcement Learning`
 * (4/22) Add more code for `EfficientDet: Scalable and Efficient Object Detection`
-* (4/16) Add project and code for `Finding Tiny Faces`
 
 ## Activities
 
