@@ -15,7 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
-* (4/27) Add PyTorch implementation for `Single-Shot Object Detection with Enriched Semantics`
+* (5/6) Add PyTorch code for `Focal Loss for Dense Object Detection`
+* (4/27) Add PyTorch code for `Single-Shot Object Detection with Enriched Semantics`
 * (4/22) Add paper `Efficient Object Detection in Large Images Using Deep Reinforcement Learning`
 * (4/22) Add more code for `EfficientDet: Scalable and Efficient Object Detection`
 
@@ -102,7 +103,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Cheng-Yang Fu, Wei Liu, Ananth Ranga, Ambrish Tyagi, Alexander C. Berg ***CVPR 2017***
 * **Accurate Single Stage Detector Using Recurrent Rolling Convolution** [[Paper]](https://arxiv.org/abs/1704.05776) [[Code]](https://github.com/xiaohaoChen/rrc_detection)
     * Jimmy Ren, Xiaohao Chen, Jianbo Liu, Wenxiu Sun, Jiahao Pang, Qiong Yan, Yu-Wing Tai, Li Xu ***CVPR 2017***
-* **Focal Loss for Dense Object Detection** [[Paper]](https://arxiv.org/abs/1708.02002)
+* **Focal Loss for Dense Object Detection** [[Paper]](https://arxiv.org/abs/1708.02002) [[PyTorch]](https://github.com/yhenon/pytorch-retinanet)
     * Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár ***ICCV 2017***
 * **Deformable Convolutional Networks** [[Paper]](https://arxiv.org/abs/1703.06211) [[Code]](https://github.com/msracver/Deformable-ConvNets)
     * Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei ***ICCV 2017***
