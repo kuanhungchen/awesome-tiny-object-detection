@@ -15,10 +15,9 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (5/6) Add PyTorch code for `EfficientDet: Scalable and Efficient Object Detection`
 * (5/6) Add PyTorch code for `Focal Loss for Dense Object Detection`
 * (4/27) Add PyTorch code for `Single-Shot Object Detection with Enriched Semantics`
-* (4/22) Add paper `Efficient Object Detection in Large Images Using Deep Reinforcement Learning`
-* (4/22) Add more code for `EfficientDet: Scalable and Efficient Object Detection`
 
 ## Activities
 
@@ -29,7 +28,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
-* **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/google/automl/tree/master/efficientdet) [[PyTorch]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) [[PyTorch]](https://github.com/toandaominh1997/EfficientDet.Pytorch) [[TensorFlow]](https://github.com/xuannianz/EfficientDet)
+* **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/google/automl/tree/master/efficientdet) [[PyTorch]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) [[PyTorch]](https://github.com/toandaominh1997/EfficientDet.Pytorch) [[PyTorch]](https://github.com/rwightman/efficientdet-pytorch) [[TensorFlow]](https://github.com/xuannianz/EfficientDet)
     * Mingxing Tan, Ruoming Pang, Quoc V. Le ***CVPR 2020***
 * **Efficient Object Detection in Large Images Using Deep Reinforcement Learning** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.pdf)
     * Burak Uzkent, Christopher Yeh, Stefano Ermon ***WACV 2020***
