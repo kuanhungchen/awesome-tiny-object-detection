@@ -15,9 +15,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
-* (5/6) Add PyTorch code for `EfficientDet: Scalable and Efficient Object Detection`
-* (5/6) Add PyTorch code for `Focal Loss for Dense Object Detection`
-* (4/27) Add PyTorch code for `Single-Shot Object Detection with Enriched Semantics`
+* (7/7) Add paper `HRDNet: High-resolution Detection Network for Small Objects`
 
 ## Activities
 
@@ -34,6 +32,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Burak Uzkent, Christopher Yeh, Stefano Ermon ***WACV 2020***
 * **Scale Match for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Benchmark]](https://github.com/ucas-vg/TinyBenchmark)
     * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
+* **HRDNet: High-resolution Detection Network for Small Objects** [[Paper]](https://arxiv.org/abs/2006.07607)
+    * Ziming Liu, Guangyu Gao, Lin Sun, Zhiyuan Fang ***arXiv 2020***
 * **Extended Feature Pyramid Network for Small Object Detection** [[Paper]](https://arxiv.org/abs/2003.07021)
     * Chunfang Deng, Mengmeng Wang, Liang Liu, and Yong Liu ***arXiv 2020***
 * **MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection** [[Paper]](https://arxiv.org/abs/2001.03194) [[Code]](https://github.com/arashwan/matrixnet)
