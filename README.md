@@ -15,7 +15,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
-* (7/7) Add paper `HRDNet: High-resolution Detection Network for Small Objects`
+* (7/7) add three new papers
 
 ## Activities
 
@@ -38,6 +38,10 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Chunfang Deng, Mengmeng Wang, Liang Liu, and Yong Liu ***arXiv 2020***
 * **MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection** [[Paper]](https://arxiv.org/abs/2001.03194) [[Code]](https://github.com/arashwan/matrixnet)
     * Abdullah Rashwan, Rishav Agarwal, Agastya Kalra, Pascal Poupart ***arXiv 2020***
+* **Cross-dataset Training for Class Increasing Object Detection** [[Paper]](https://arxiv.org/abs/2001.04621)
+    * Yongqiang Yao, Yan Wang, Yu Guo, Jiaojiao Lin, Hongwei Qin, Junjie Yan ***arXiv 2020***
+* **TBC-Net: A real-time detector for infrared small target detection using semantic constraint** [[Paper]](https://arxiv.org/abs/2001.05852)
+    * Mingxin Zhao, Li Cheng, Xu Yang, Peng Feng, Liyuan Liu, Nanjian Wu ***arXiv 2020***
 * **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network** [[Paper]](https://arxiv.org/abs/1811.04533) [[Code]](https://github.com/qijiezhao/M2Det)
     * Qijie Zhao, Tao Sheng, Yongtao Wang, Zhi Tang, Ying Chen, Ling Cai, Haibin Ling ***AAAI 2019***
 * **Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detecti** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) [[Project]](http://vision.snu.ac.kr/project_pages/iccv19_noh/views/)
