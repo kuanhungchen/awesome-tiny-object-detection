@@ -15,8 +15,6 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
-* (7/7) add three new papers
-
 ## Activities
 
 * **1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)** [[Project]](https://rlq-tod.github.io/index.html)
