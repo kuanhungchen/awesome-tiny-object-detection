@@ -15,7 +15,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
-* (7/22) add RepPoints V2 paper and code
+* (8/27) add DETR and HoughNet
 
 ## Activities
 
@@ -26,6 +26,10 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **End-to-End Object Detection with Transformers** [[Paper]](https://arxiv.org/abs/2005.12872) [[Code]](https://github.com/facebookresearch/detr)
+	* Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko ***ECCV 2020***
+* **HoughNet: Integrating near and long-range evidence for bottom-up object detection** [[Paper]](https://arxiv.org/abs/2007.02355) [[Code]](https://github.com/nerminsamet/houghnet)
+	* Nermin Samet, Samet Hicsonmez, Emre Akbas ***ECCV 2020***
 * **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/google/automl/tree/master/efficientdet) [[PyTorch]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) [[PyTorch]](https://github.com/toandaominh1997/EfficientDet.Pytorch) [[PyTorch]](https://github.com/rwightman/efficientdet-pytorch) [[TensorFlow]](https://github.com/xuannianz/EfficientDet)
     * Mingxing Tan, Ruoming Pang, Quoc V. Le ***CVPR 2020***
 * **Efficient Object Detection in Large Images Using Deep Reinforcement Learning** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.pdf)
