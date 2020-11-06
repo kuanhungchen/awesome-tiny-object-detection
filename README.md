@@ -15,7 +15,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
-* (8/27) add DETR and HoughNet
+* (11/06) add a paper for tiny object detection
 
 ## Activities
 
@@ -26,6 +26,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **Effective Fusion Factor in FPN for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2011.02298)
+    * Yuqi Gong, Xuehui Yu, Yao Ding, Xiaoke Peng, Jian Zhao, Zhenjun Han ***WACV 2021***
 * **End-to-End Object Detection with Transformers** [[Paper]](https://arxiv.org/abs/2005.12872) [[Code]](https://github.com/facebookresearch/detr)
 	* Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko ***ECCV 2020***
 * **HoughNet: Integrating near and long-range evidence for bottom-up object detection** [[Paper]](https://arxiv.org/abs/2007.02355) [[Code]](https://github.com/nerminsamet/houghnet)
