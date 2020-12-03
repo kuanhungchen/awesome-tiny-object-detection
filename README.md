@@ -15,6 +15,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (12/03) add two papers: TinyFace and TinyNets
 * (11/06) add a paper for tiny object detection
 
 ## Activities
@@ -97,7 +98,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * **SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf)
     * Yancheng Bai, Yongqiang Zhang, Mingli Ding, Bernard Ghanem ***ECCV 2018***
 * **SNIPER: Efficient Multi-Scale Training** [[Paper]](https://arxiv.org/abs/1805.09300) [[Code]](https://github.com/MahyarNajibi/SNIPER) 
-    * Bharat Singh, Mahyar Najibi, Larry S. Davis ***NIPS 2018***
+    * Bharat Singh, Mahyar Najibi, Larry S. Davis ***NeurIPS 2018***
 * **YOLOv3: An Incremental Improvement** [[Paper]](https://arxiv.org/abs/1804.02767) [[Project]](https://pjreddie.com/darknet/yolo/) [[Code]](https://github.com/ayooshkathuria/pytorch-yolo-v3)
     * Joseph Redmon, Ali Farhadi ***arXiv 2018***
 * **You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery** [[Paper]](https://arxiv.org/abs/1805.09512) [[Code]](https://github.com/avanetten/yolt)
@@ -127,6 +128,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Face Detection
 
+* **TinaFace: Strong but Simple Baseline for Face Detection** [[Paper]](https://arxiv.org/abs/2011.13183) [[Code]](https://github.com/Media-Smart/vedadet)
+    * Yanjia Zhu, Hongxiang Cai, Shuhan Zhang, Chenhao Wang, Yichao Xiong ***arXiv 2020***
 * **Robust Face Detection via Learning Small Faces on Hard Images** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Zhang_Robust_Face_Detection_via_Learning_Small_Faces_on_Hard_Images_WACV_2020_paper.pdf) [[Code]](https://github.com/bairdzhang/smallhardface)
     * Zhishuai Zhang, Wei Shen, Siyuan Qiao, Yan Wang, Bo Wang, Alan Yuille ***WACV 2020***
 * **Finding Tiny Faces in the Wild with Generative Adversarial Network** [[Paper]](https://ivul.kaust.edu.sa/Documents/Publications/2018/Finding%20Tiny%20Faces%20in%20the%20Wild%20with%20Generative%20Adversarial%20Network.pdf)
@@ -184,6 +187,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Surveys
 
+* **Model Rubik's Cube: Twisting Resolution, Depth and Width for TinyNets** [[Paper]](https://arxiv.org/abs/2010.14819) [[Code]](https://gitee.com/mindspore/mindspore/tree/master/model_zoo/research/cv/tinynet)
+    * Kai Han, Yunhe Wang, Qiulin Zhang, Wei Zhang, Chunjing Xu, Tong Zhang ***NeurIPS 2020***
 * **A Survey of Deep Learning-based Object Detection** [[Paper]](https://arxiv.org/abs/1907.09408)
     * Licheng Jiao, Fan Zhang, Fang Liu, Shuyuan Yang, Lingling Li, Zhixi Feng, Rong Qu ***IEEE Access 2019***
 * **Recent Advances in Deep Learning for Object Detection** [[Paper]](https://arxiv.org/abs/1908.03673)
