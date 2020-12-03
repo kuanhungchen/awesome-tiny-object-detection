@@ -71,7 +71,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * **R2-CNN: Fast Tiny Object Detection in Large-scale Remote Sensing Images** [[Paper]](https://arxiv.org/abs/1902.06042v2)
     * Jiangmiao Pang, Cong Li, Jianping Shi, Zhihai Xu, Huajun Feng ***TGRS 2019***
 * **R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object** [[Paper]](https://arxiv.org/abs/1908.05612) [[Code]](https://github.com/Thinklab-SJTU/R3Det_Tensorflow)
-	* Yang, Xue and Liu, Qingqing and Yan, Junchi and Li, Ang and Zhiqiang, Zhang and Gang, Yu ***arXiv 2019***
+	* Yang, Xue and Liu, Qingqing and Yan, Junchi and Li, Ang and Zhiqiang, Zhang and Gang, Yu ***AAAI 2021***
 * **SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization** [[Paper]](https://arxiv.org/abs/1912.05027)
     * Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, Yin Cui, Quoc V. Le, Xiaodan Song ***arXiv 2019***
 * **Learning Spatial Fusion for Single-Shot Object Detection** [[Paper]](https://arxiv.org/abs/1911.09516) [[Code]](https://github.com/ruinmessi/ASFF)
