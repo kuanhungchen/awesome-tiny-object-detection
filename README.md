@@ -15,8 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (12/07) add one paper: CPNDet
 * (12/03) add two papers: TinyFace and TinyNets
-* (11/06) add a paper for tiny object detection
 
 ## Activities
 
@@ -31,6 +31,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Yuqi Gong, Xuehui Yu, Yao Ding, Xiaoke Peng, Jian Zhao, Zhenjun Han ***WACV 2021***
 * **End-to-End Object Detection with Transformers** [[Paper]](https://arxiv.org/abs/2005.12872) [[Code]](https://github.com/facebookresearch/detr)
 	* Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko ***ECCV 2020***
+* **Corner Proposal Network for Anchor-free, Two-stage Object Detection** [[Paper]](https://arxiv.org/abs/2007.13816) [[Code]](https://github.com/Duankaiwen/CPNDet)
+	* Kaiwen Duan, Lingxi Xie, Honggang Qi, Song Bai, Qingming Huang, Qi Tian ***ECCV 2020***
 * **HoughNet: Integrating near and long-range evidence for bottom-up object detection** [[Paper]](https://arxiv.org/abs/2007.02355) [[Code]](https://github.com/nerminsamet/houghnet)
 	* Nermin Samet, Samet Hicsonmez, Emre Akbas ***ECCV 2020***
 * **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/google/automl/tree/master/efficientdet) [[PyTorch]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) [[PyTorch]](https://github.com/toandaominh1997/EfficientDet.Pytorch) [[PyTorch]](https://github.com/rwightman/efficientdet-pytorch) [[TensorFlow]](https://github.com/xuannianz/EfficientDet)
