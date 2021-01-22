@@ -15,6 +15,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (01/22) update two papers
 * (12/11) add one Chinese article about tiny object detection
 * (12/07) add one paper: CPNDet
 * (12/03) add two papers: TinyFace and TinyNets
@@ -71,7 +72,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * **Learning Object-Wise Semantic Representation for Detection in Remote Sensing Imagery** [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Li_Learning_Object-Wise_Semantic_Representation_for_Detection_in_Remote_Sensing_Imagery_CVPRW_2019_paper.pdf)
 	* Chengzheng Li, Chunyan Xu, Zhen Cui, Dan Wang, Zequn Jie, Tong Zhang, Jian Yang ***CVPR Workshop 2019***
 * **AugFPN: Improving Multi-scale Feature Learning for Object Detection** [[Paper]](https://arxiv.org/abs/1912.05384)
-    * Chaoxu Guo, Bin Fan, Qian Zhang, Shiming Xiang, Chunhong Pan ***CoRR 2019***
+    * Chaoxu Guo, Bin Fan, Qian Zhang, Shiming Xiang, Chunhong Pan ***CoRR 2019, CVPR2020***
 * **R2-CNN: Fast Tiny Object Detection in Large-scale Remote Sensing Images** [[Paper]](https://arxiv.org/abs/1902.06042v2)
     * Jiangmiao Pang, Cong Li, Jianping Shi, Zhihai Xu, Huajun Feng ***TGRS 2019***
 * **R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object** [[Paper]](https://arxiv.org/abs/1908.05612) [[Code]](https://github.com/Thinklab-SJTU/R3Det_Tensorflow)
@@ -197,7 +198,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * **Recent Advances in Deep Learning for Object Detection** [[Paper]](https://arxiv.org/abs/1908.03673)
     * Xiongwei Wu, Doyen Sahoo, Steven C.H. Hoi ***CoRR 2019***
 * **Imbalance Problems in Object Detection: A Review** [[Paper]](https://arxiv.org/abs/1909.00169) [[Project]](https://github.com/kemaloksuz/ObjectDetectionImbalance)
-    * Kemal Oksuz, Baris Can Cam, Sinan Kalkan, Emre Akbas ***submitted to TPAMI 2019***
+    * Kemal Oksuz, Baris Can Cam, Sinan Kalkan, Emre Akbas ***TPAMI 2020***
 * **Object Detection in 20 Years: A Survey** [[Paper]](https://arxiv.org/abs/1905.05055)
     * Zhengxia Zou, Zhenwei Shi, Yuhong Guo, Jieping Ye ***submitted to TPAMI 2019***
 * **Speed/accuracy trade-offs for modern convolutional object detectors** [[Paper]](https://arxiv.org/abs/1611.10012)
