@@ -15,10 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (03/06) add one paper
 * (01/22) update two papers
-* (12/11) add one Chinese article about tiny object detection
-* (12/07) add one paper: CPNDet
-* (12/03) add two papers: TinyFace and TinyNets
 
 ## Activities
 
@@ -29,6 +27,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges** [[Paper]](https://arxiv.org/abs/2102.12219)
+    * Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, Wen Yang, Micheal Ying Yang, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang ***arXiv 2021***
 * **Effective Fusion Factor in FPN for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2011.02298)
     * Yuqi Gong, Xuehui Yu, Yao Ding, Xiaoke Peng, Jian Zhao, Zhenjun Han ***WACV 2021***
 * **End-to-End Object Detection with Transformers** [[Paper]](https://arxiv.org/abs/2005.12872) [[Code]](https://github.com/facebookresearch/detr)
