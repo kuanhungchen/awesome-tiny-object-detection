@@ -15,6 +15,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (03/07) add two papers
 * (03/06) add one paper
 * (01/22) update two papers
 
@@ -43,6 +44,10 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Burak Uzkent, Christopher Yeh, Stefano Ermon ***WACV 2020***
 * **Scale Match for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Benchmark]](https://github.com/ucas-vg/TinyBenchmark)
     * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
+* **MultiResolution Attention Extractor for Small Object Detection** [[Paper]](https://arxiv.org/abs/2006.05941v1)
+    * Fan Zhang, Licheng Jiao, Lingling Li, Fang Liu, Xu Liu ***arXiv 2020***
+* **Intrinsic Relationship Reasoning for Small Object Detection** [[Paper]](https://arxiv.org/abs/2009.00833v1)
+    * Kui Fu, Jia Li, Lin Ma, Kai Mu, Yonghong Tian ***arXiv 2020*** 
 * **HRDNet: High-resolution Detection Network for Small Objects** [[Paper]](https://arxiv.org/abs/2006.07607)
     * Ziming Liu, Guangyu Gao, Lin Sun, Zhiyuan Fang ***arXiv 2020***
 * **Extended Feature Pyramid Network for Small Object Detection** [[Paper]](https://arxiv.org/abs/2003.07021)
