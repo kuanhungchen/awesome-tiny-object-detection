@@ -15,6 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (03/26):
+    * Add paper and code for _Learning Calibrated-Guidance for Object Detection in Aerial Images_
 * (03/20):
     * Add paper and code for _ReDet: A Rotation-equivariant Detector for Aerial Object Detection_
     * Update code for _Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges_
@@ -28,6 +30,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **Learning Calibrated-Guidance for Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/2103.11399) [[Code]](https://github.com/WeiZongqi/CG-Net)
+    * Dong Liang, Zongqi Wei, Dong Zhang, Qixiang Geng, Liyan Zhang, Han Sun, Huiyu Zhou, Mingqiang Wei, Pan Gao ***arXiv 2021***
 * **ReDet: A Rotation-equivariant Detector for Aerial Object Detection** [[Paper]](https://arxiv.org/abs/2103.07733) [[Code]](https://github.com/csuhan/ReDet)
     * Jiaming Han, Jian Ding, Nan Xue, Gui-Song Xia ***CVPR 2021***
 * **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges** [[Paper]](https://arxiv.org/abs/2102.12219) [[Code]](https://github.com/dingjiansw101/AerialDetection)
@@ -64,7 +68,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Yihong Chen, Zheng Zhang, Yue Cao, Liwei Wang, Stephen Lin, Han Hu **arXiv 2020**
 * **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network** [[Paper]](https://arxiv.org/abs/1811.04533) [[Code]](https://github.com/qijiezhao/M2Det)
     * Qijie Zhao, Tao Sheng, Yongtao Wang, Zhi Tang, Ying Chen, Ling Cai, Haibin Ling ***AAAI 2019***
-* **Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detecti** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) [[Project]](http://vision.snu.ac.kr/project_pages/iccv19_noh/views/)
+* **Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Noh_Better_to_Follow_Follow_to_Be_Better_Towards_Precise_Supervision_ICCV_2019_paper.pdf) [[Project]](http://vision.snu.ac.kr/project_pages/iccv19_noh/views/)
     * Junhyug Noh, Wonho Bae, Wonhee Lee, Jinhwan Seo, Gunhee Kim ***ICCV 2019***
 * **Enriched Feature Guided Refinement Network for Object Detection** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nie_Enriched_Feature_Guided_Refinement_Network_for_Object_Detection_ICCV_2019_paper.pdf) [[Code]](https://github.com/Ranchentx/EFGRNet)
     * Jing Nie, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, Yanwei Pang, Ling Shao ***ICCV 2019***
