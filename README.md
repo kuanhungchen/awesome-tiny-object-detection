@@ -8,7 +8,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * [Papers](#papers)
     * [Tiny Object Detection](#tiny-object-detection)
     * [Tiny Face Detection](#tiny-face-detection)
-    * [Tiny Pedestrian Detection](#tiny-pedestrian-detection) 
+    * [Tiny Pedestrian Detection](#tiny-pedestrian-detection)
 * [Datasets](#datasets)
 * [Surveys](#surveys)
 * [Articles](#articles)
@@ -39,11 +39,11 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * **Effective Fusion Factor in FPN for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2011.02298)
     * Yuqi Gong, Xuehui Yu, Yao Ding, Xiaoke Peng, Jian Zhao, Zhenjun Han ***WACV 2021***
 * **End-to-End Object Detection with Transformers** [[Paper]](https://arxiv.org/abs/2005.12872) [[Code]](https://github.com/facebookresearch/detr)
-	* Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko ***ECCV 2020***
+    * Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko ***ECCV 2020***
 * **Corner Proposal Network for Anchor-free, Two-stage Object Detection** [[Paper]](https://arxiv.org/abs/2007.13816) [[Code]](https://github.com/Duankaiwen/CPNDet)
-	* Kaiwen Duan, Lingxi Xie, Honggang Qi, Song Bai, Qingming Huang, Qi Tian ***ECCV 2020***
+    * Kaiwen Duan, Lingxi Xie, Honggang Qi, Song Bai, Qingming Huang, Qi Tian ***ECCV 2020***
 * **HoughNet: Integrating near and long-range evidence for bottom-up object detection** [[Paper]](https://arxiv.org/abs/2007.02355) [[Code]](https://github.com/nerminsamet/houghnet)
-	* Nermin Samet, Samet Hicsonmez, Emre Akbas ***ECCV 2020***
+    * Nermin Samet, Samet Hicsonmez, Emre Akbas ***ECCV 2020***
 * **EfficientDet: Scalable and Efficient Object Detection** [[Paper]](https://arxiv.org/abs/1911.09070) [[Code]](https://github.com/google/automl/tree/master/efficientdet) [[PyTorch]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) [[PyTorch]](https://github.com/toandaominh1997/EfficientDet.Pytorch) [[PyTorch]](https://github.com/rwightman/efficientdet-pytorch) [[TensorFlow]](https://github.com/xuannianz/EfficientDet)
     * Mingxing Tan, Ruoming Pang, Quoc V. Le ***CVPR 2020***
 * **Efficient Object Detection in Large Images Using Deep Reinforcement Learning** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.pdf)
@@ -53,7 +53,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * **MultiResolution Attention Extractor for Small Object Detection** [[Paper]](https://arxiv.org/abs/2006.05941v1)
     * Fan Zhang, Licheng Jiao, Lingling Li, Fang Liu, Xu Liu ***arXiv 2020***
 * **Intrinsic Relationship Reasoning for Small Object Detection** [[Paper]](https://arxiv.org/abs/2009.00833v1)
-    * Kui Fu, Jia Li, Lin Ma, Kai Mu, Yonghong Tian ***arXiv 2020*** 
+    * Kui Fu, Jia Li, Lin Ma, Kai Mu, Yonghong Tian ***arXiv 2020***
 * **HRDNet: High-resolution Detection Network for Small Objects** [[Paper]](https://arxiv.org/abs/2006.07607)
     * Ziming Liu, Guangyu Gao, Lin Sun, Zhiyuan Fang ***arXiv 2020***
 * **Extended Feature Pyramid Network for Small Object Detection** [[Paper]](https://arxiv.org/abs/2003.07021)
@@ -77,17 +77,17 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * **Scale-Aware Trident Networks for Object Detection** [[Paper]](https://arxiv.org/abs/1901.01892) [[Code]](https://github.com/TuSimple/simpledet/tree/master/models/tridentnet)
     * Yanghao Li, Yuntao Chen, Naiyan Wang, Zhaoxiang Zhang ***ICCV 2019***
 * **SCRDet: Towards More Robust Detection for Small, Cluttered and Rotated Objects** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_SCRDet_Towards_More_Robust_Detection_for_Small_Cluttered_and_Rotated_ICCV_2019_paper.pdf)
-	* Xue Yang, Jirui Yang, Junchi Yan, Yue Zhang, Tengfei Zhang, Zhi Guo, Xian Sun, Kun Fu ***ICCV 2019***
+    * Xue Yang, Jirui Yang, Junchi Yan, Yue Zhang, Tengfei Zhang, Zhi Guo, Xian Sun, Kun Fu ***ICCV 2019***
 * **Clustered Object Detection in Aerial Images** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Clustered_Object_Detection_in_Aerial_Images_ICCV_2019_paper.pdf)
-	* Fan Yang, Heng Fan, Peng Chu, Erik Blasch, Haibin Ling ***ICCV 2019***
+    * Fan Yang, Heng Fan, Peng Chu, Erik Blasch, Haibin Ling ***ICCV 2019***
 * **Learning Object-Wise Semantic Representation for Detection in Remote Sensing Imagery** [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Li_Learning_Object-Wise_Semantic_Representation_for_Detection_in_Remote_Sensing_Imagery_CVPRW_2019_paper.pdf)
-	* Chengzheng Li, Chunyan Xu, Zhen Cui, Dan Wang, Zequn Jie, Tong Zhang, Jian Yang ***CVPR Workshop 2019***
+    * Chengzheng Li, Chunyan Xu, Zhen Cui, Dan Wang, Zequn Jie, Tong Zhang, Jian Yang ***CVPR Workshop 2019***
 * **AugFPN: Improving Multi-scale Feature Learning for Object Detection** [[Paper]](https://arxiv.org/abs/1912.05384)
     * Chaoxu Guo, Bin Fan, Qian Zhang, Shiming Xiang, Chunhong Pan ***CoRR 2019, CVPR2020***
 * **R2-CNN: Fast Tiny Object Detection in Large-scale Remote Sensing Images** [[Paper]](https://arxiv.org/abs/1902.06042v2)
     * Jiangmiao Pang, Cong Li, Jianping Shi, Zhihai Xu, Huajun Feng ***TGRS 2019***
 * **R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object** [[Paper]](https://arxiv.org/abs/1908.05612) [[Code]](https://github.com/Thinklab-SJTU/R3Det_Tensorflow)
-	* Yang, Xue and Liu, Qingqing and Yan, Junchi and Li, Ang and Zhiqiang, Zhang and Gang, Yu ***AAAI 2021***
+    * Yang, Xue and Liu, Qingqing and Yan, Junchi and Li, Ang and Zhiqiang, Zhang and Gang, Yu ***AAAI 2021***
 * **SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization** [[Paper]](https://arxiv.org/abs/1912.05027)
     * Xianzhi Du, Tsung-Yi Lin, Pengchong Jin, Golnaz Ghiasi, Mingxing Tan, Yin Cui, Quoc V. Le, Xiaodan Song ***arXiv 2019***
 * **Learning Spatial Fusion for Single-Shot Object Detection** [[Paper]](https://arxiv.org/abs/1911.09516) [[Code]](https://github.com/ruinmessi/ASFF)
@@ -112,7 +112,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun ***ECCV 2018***
 * **SOD-MTGAN: Small Object Detection via Multi-Task Generative Adversarial Network** [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yongqiang_Zhang_SOD-MTGAN_Small_Object_ECCV_2018_paper.pdf)
     * Yancheng Bai, Yongqiang Zhang, Mingli Ding, Bernard Ghanem ***ECCV 2018***
-* **SNIPER: Efficient Multi-Scale Training** [[Paper]](https://arxiv.org/abs/1805.09300) [[Code]](https://github.com/MahyarNajibi/SNIPER) 
+* **SNIPER: Efficient Multi-Scale Training** [[Paper]](https://arxiv.org/abs/1805.09300) [[Code]](https://github.com/MahyarNajibi/SNIPER)
     * Bharat Singh, Mahyar Najibi, Larry S. Davis ***NeurIPS 2018***
 * **YOLOv3: An Incremental Improvement** [[Paper]](https://arxiv.org/abs/1804.02767) [[Project]](https://pjreddie.com/darknet/yolo/) [[Code]](https://github.com/ayooshkathuria/pytorch-yolo-v3)
     * Joseph Redmon, Ali Farhadi ***arXiv 2018***
@@ -124,7 +124,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Mingliang Xu, Lisha Cui, Pei Lv, Xiaoheng Jiang, Jianwei Niu, Bing Zhou, Meng Wang ***arXiv 2018***
 * **Perceptual Generative Adversarial Networks for Small Object Detection** [[Paper]](https://arxiv.org/abs/1706.05274)
     * Jianan Li, Xiaodan Liang, Yunchao Wei, Tingfa Xu, Jiashi Feng, Shuicheng Yan ***CVPR 2017***
-* **Feature Pyramid Networks for Object Detection** [[Paper]](https://arxiv.org/abs/1612.03144) 
+* **Feature Pyramid Networks for Object Detection** [[Paper]](https://arxiv.org/abs/1612.03144)
     * Tsung-Yi Lin, Piotr Dollár, Ross Girshick, Kaiming He, Bharath Hariharan, Serge Belongie ***CVPR 2017***
 * **DSSD : Deconvolutional Single Shot Detector** [[Paper]](https://arxiv.org/abs/1701.06659) [[Code]](https://github.com/chengyangfu/caffe/tree/dssd)
     * Cheng-Yang Fu, Wei Liu, Ananth Ranga, Ambrish Tyagi, Alexander C. Berg ***CVPR 2017***
