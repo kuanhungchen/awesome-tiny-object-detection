@@ -17,6 +17,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 * (04/19):
     * Add paper for _The Power of Tiling for Small Object Detection_
+    * Add article and video for _Tackling the Small Object Problem in Object Detection_
 * (03/26):
     * Add paper and code for _Learning Calibrated-Guidance for Object Detection in Aerial Images_
 * (03/20):
@@ -221,6 +222,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Articles
 
+* **[Tackling the Small Object Problem in Object Detection](https://blog.roboflow.com/detect-small-objects/) ([Video](https://www.youtube.com/watch?v=WeQcURbHA7U&ab_channel=Roboflow))**
 * **[提升小目标检测的思路 - Zhihu](https://zhuanlan.zhihu.com/p/121666693?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=1108654922240958464)**
 * **[How do you do object detection using CNNs on small objects like ping pong balls? - Quora](https://www.quora.com/How-do-you-do-object-detection-using-CNNs-on-small-objects-like-ping-pong-balls)**
 * **[深度学习在 small object detection 有什么进展? - Zhihu](https://www.zhihu.com/question/272322209)**
