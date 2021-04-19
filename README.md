@@ -15,6 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (04/19):
+    * Add paper for _The Power of Tiling for Small Object Detection_
 * (03/26):
     * Add paper and code for _Learning Calibrated-Guidance for Object Detection in Aerial Images_
 * (03/20):
@@ -80,6 +82,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Xue Yang, Jirui Yang, Junchi Yan, Yue Zhang, Tengfei Zhang, Zhi Guo, Xian Sun, Kun Fu ***ICCV 2019***
 * **Clustered Object Detection in Aerial Images** [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Clustered_Object_Detection_in_Aerial_Images_ICCV_2019_paper.pdf)
     * Fan Yang, Heng Fan, Peng Chu, Erik Blasch, Haibin Ling ***ICCV 2019***
+* **The Power of Tiling for Small Object Detection** [[Paper]](https://openaccess.thecvf.com/content_CVPRW_2019/papers/UAVision/Unel_The_Power_of_Tiling_for_Small_Object_Detection_CVPRW_2019_paper.pdf)
+    * F. Ozge Unel, Burak O. Ozkalayci, Cevahir Cigla ***CVPR Workshop 2019***
 * **Learning Object-Wise Semantic Representation for Detection in Remote Sensing Imagery** [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Li_Learning_Object-Wise_Semantic_Representation_for_Detection_in_Remote_Sensing_Imagery_CVPRW_2019_paper.pdf)
     * Chengzheng Li, Chunyan Xu, Zhen Cui, Dan Wang, Zequn Jie, Tong Zhang, Jian Yang ***CVPR Workshop 2019***
 * **AugFPN: Improving Multi-scale Feature Learning for Object Detection** [[Paper]](https://arxiv.org/abs/1912.05384)
