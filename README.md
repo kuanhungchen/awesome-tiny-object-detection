@@ -15,6 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (05/04):
+    * Add paper for _Oriented Bounding Boxes for Small and Freely Rotated Objects_
 * (04/19):
     * Add paper for _The Power of Tiling for Small Object Detection_
     * Add article and video for _Tackling the Small Object Problem in Object Detection_
@@ -33,6 +35,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **Oriented Bounding Boxes for Small and Freely Rotated Objects** [[Paper]](https://arxiv.org/abs/2104.11854)
+    * Mohsen Zand, Ali Etemad, Michael Greenspan ***TGRS 2021***
 * **Learning Calibrated-Guidance for Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/2103.11399) [[Code]](https://github.com/WeiZongqi/CG-Net)
     * Dong Liang, Zongqi Wei, Dong Zhang, Qixiang Geng, Liyan Zhang, Han Sun, Huiyu Zhou, Mingqiang Wei, Pan Gao ***arXiv 2021***
 * **ReDet: A Rotation-equivariant Detector for Aerial Object Detection** [[Paper]](https://arxiv.org/abs/2103.07733) [[Code]](https://github.com/csuhan/ReDet)
