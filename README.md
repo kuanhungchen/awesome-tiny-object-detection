@@ -15,6 +15,9 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (05/25):
+    * Add a dataset _Tiny Object Detection in Aerial Images_
+    * Add a dataset _iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images_
 * (05/04):
     * Add paper for _Oriented Bounding Boxes for Small and Freely Rotated Objects_
 * (04/19):
@@ -182,6 +185,10 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Datasets
 
+* **Tiny Object Detection in Aerial Images** [[Paper]](https://drive.google.com/file/d/1IiTp7gilwDCGr8QR_H9Covz8aVK7LXiI/view) [[Code]](https://github.com/jwwangchn/AI-TOD)
+    * Jinwang Wang, Wen Yang, Haowen Guo, Ruixiang Zhang, Gui-Song Xia ***ICPR 2021***
+* **iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images** [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Zamir_iSAID_A_Large-scale_Dataset_for_Instance_Segmentation_in_Aerial_Images_CVPRW_2019_paper.pdf) [[Project]](https://captain-whu.github.io/iSAID/index.html)
+    * Syed Waqas Zamir, Aditya Arora, Akshita Gupta, Salman Khan, Guolei Sun, Fahad Shahbaz Khan, Fan Zhu, Ling Shao, Gui-Song Xia, Xiang Bai ***CVPRW 2019***
 * **BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos** [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/papers/Bondi_BIRDSAI_A_Dataset_for_Detection_and_Tracking_in_Aerial_Thermal_WACV_2020_paper.pdf) [[Project]](https://sites.google.com/view/elizabethbondi/dataset)
     * Elizabeth Bondi, Raghav Jain, Palash Aggrawal, Saket Anand, Robert Hannaford, Ashish Kapoor, Jim Piavis, Shital Shah, Lucas Joppa, Bistra Dilkina, Milind Tambe ***WACV 2020***
 * **TinyPerson Dataset for Tiny Person Detection** [[Paper]](https://arxiv.org/abs/1912.10664) [[Project]](http://vision.ucas.ac.cn/resource.asp)
