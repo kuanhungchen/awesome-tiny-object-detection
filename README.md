@@ -15,6 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (07/02):
+    * Add an article _Small objects detection problem_
 * (05/25):
     * Add a dataset _Tiny Object Detection in Aerial Images_
     * Add a dataset _iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images_
@@ -234,6 +236,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 ## Articles
 
 * **[Tackling the Small Object Problem in Object Detection](https://blog.roboflow.com/detect-small-objects/) ([Video](https://www.youtube.com/watch?v=WeQcURbHA7U&ab_channel=Roboflow))**
+* **[Small objects detection problem - Medium](https://medium.datadriveninvestor.com/small-objects-detection-problem-c5b430996162)**
 * **[提升小目标检测的思路 - Zhihu](https://zhuanlan.zhihu.com/p/121666693?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=1108654922240958464)**
 * **[How do you do object detection using CNNs on small objects like ping pong balls? - Quora](https://www.quora.com/How-do-you-do-object-detection-using-CNNs-on-small-objects-like-ping-pong-balls)**
 * **[深度学习在 small object detection 有什么进展? - Zhihu](https://www.zhihu.com/question/272322209)**
