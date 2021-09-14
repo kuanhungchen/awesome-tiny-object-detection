@@ -15,6 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (09/14):
+    * Add paper _TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios_
 * (07/02):
     * Add an article _Small objects detection problem_
 * (05/25):
@@ -40,6 +42,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios** [[Paper]](https://arxiv.org/abs/2108.11539)
+    * Xingkui Zhu, Shuchang Lyu, Xu Wang, Qi Zhao ***ICCV Workshop 2021***
 * **Oriented Bounding Boxes for Small and Freely Rotated Objects** [[Paper]](https://arxiv.org/abs/2104.11854)
     * Mohsen Zand, Ali Etemad, Michael Greenspan ***TGRS 2021***
 * **Learning Calibrated-Guidance for Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/2103.11399) [[Code]](https://github.com/WeiZongqi/CG-Net)
@@ -241,4 +245,3 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * **[How do you do object detection using CNNs on small objects like ping pong balls? - Quora](https://www.quora.com/How-do-you-do-object-detection-using-CNNs-on-small-objects-like-ping-pong-balls)**
 * **[深度学习在 small object detection 有什么进展? - Zhihu](https://www.zhihu.com/question/272322209)**
 * **[小目标检测问题中“小目标”如何定义？其主要技术难点在哪？有哪些比较好的传统的或深度学习方法？ - Zhihu](https://www.zhihu.com/question/269877902)**
-* **[Small objects detection problem - Medium](https://medium.com/datadriveninvestor/small-objects-detection-problem-c5b430996162)**
