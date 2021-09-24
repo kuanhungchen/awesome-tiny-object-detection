@@ -15,6 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (09/24):
+    * Add paper _Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors_
 * (09/14):
     * Add paper _TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios_
 * (07/02):
@@ -42,6 +44,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors** [[Paper]](https://arxiv.org/abs/2008.07043) [[Code]](https://github.com/yijingru/BBAVectors-Oriented-Object-Detection)
+    * Jingru Yi, Pengxiang Wu, Bo Liu, Qiaoying Huang, Hui Qu, Dimitris Metaxas ***WACV 2021*** 
 * **TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios** [[Paper]](https://arxiv.org/abs/2108.11539)
     * Xingkui Zhu, Shuchang Lyu, Xu Wang, Qi Zhao ***ICCV Workshop 2021***
 * **Oriented Bounding Boxes for Small and Freely Rotated Objects** [[Paper]](https://arxiv.org/abs/2104.11854)
