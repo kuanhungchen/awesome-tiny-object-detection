@@ -15,27 +15,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
-* (11/18):
-    * Add paper _A Normalized Gaussian Wasserstein Distance for Tiny Object Detection_
-* (09/24):
-    * Add paper _Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors_
-* (09/14):
-    * Add paper _TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-captured Scenarios_
-* (07/02):
-    * Add an article _Small objects detection problem_
-* (05/25):
-    * Add a dataset _Tiny Object Detection in Aerial Images_
-    * Add a dataset _iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images_
-* (05/04):
-    * Add paper for _Oriented Bounding Boxes for Small and Freely Rotated Objects_
-* (04/19):
-    * Add paper for _The Power of Tiling for Small Object Detection_
-    * Add article and video for _Tackling the Small Object Problem in Object Detection_
-* (03/26):
-    * Add paper and code for _Learning Calibrated-Guidance for Object Detection in Aerial Images_
-* (03/20):
-    * Add paper and code for _ReDet: A Rotation-equivariant Detector for Aerial Object Detection_
-    * Update code for _Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges_
+* (03/24)
+    * Add paper _Attentional Feature Refinement and Alignment Network for Aircraft Detection in SAR Imagery_
 
 ## Activities
 
@@ -46,6 +27,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **Attentional Feature Refinement and Alignment Network for Aircraft Detection in SAR Imagery** [[Paper]](https://arxiv.org/abs/2201.07124)
+    * Yan Zhao, Lingjun Zhao, Zhong Liu, Dewen Hu, Gangyao Kuang, Li Liu ***Submitted to TGRS***
 * **A Normalized Gaussian Wasserstein Distance for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2110.13389)
     * Jinwang Wang, Chang Xu, Wen Yang, Lei Yu ***arXiv 2021***
 * **Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors** [[Paper]](https://arxiv.org/abs/2008.07043) [[Code]](https://github.com/yijingru/BBAVectors-Oriented-Object-Detection)
