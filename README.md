@@ -15,8 +15,11 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (03/30)
+    * add paper _Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges_
+    * add paper _MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images_
 * (03/24)
-    * Add paper _Attentional Feature Refinement and Alignment Network for Aircraft Detection in SAR Imagery_
+    * add paper _Attentional Feature Refinement and Alignment Network for Aircraft Detection in SAR Imagery_
 
 ## Activities
 
@@ -27,6 +30,10 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges** [[Paper]](https://arxiv.org/abs/2102.12219)
+    * Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, Wen Yang, Micheal Ying Yang, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang ***TPAMI 2021***
+* **MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/2012.13135)
+    * Ran Qin, Qingjie Liu, Guangshuai Gao, Di Huang, Yunhong Wang ***TGRS 2021***
 * **Attentional Feature Refinement and Alignment Network for Aircraft Detection in SAR Imagery** [[Paper]](https://arxiv.org/abs/2201.07124)
     * Yan Zhao, Lingjun Zhao, Zhong Liu, Dewen Hu, Gangyao Kuang, Li Liu ***Submitted to TGRS***
 * **A Normalized Gaussian Wasserstein Distance for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2110.13389)
