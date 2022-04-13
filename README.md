@@ -15,6 +15,9 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Updates
 
+* (04/13)
+    * add paper _QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection_
+    * add dataset _Detection and Tracking Meet Drones Challenge_
 * (03/30)
     * add paper _Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges_
     * add paper _MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images_
@@ -30,6 +33,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection** [[Paper]](https://arxiv.org/abs/2103.09136) [[Code]](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
+    * Chenhongyi Yang, Zehao Huang, Naiyan Wang ***CVPR 2022***
 * **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges** [[Paper]](https://arxiv.org/abs/2102.12219)
     * Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, Wen Yang, Micheal Ying Yang, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang ***TPAMI 2021***
 * **MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images** [[Paper]](https://arxiv.org/abs/2012.13135)
@@ -189,6 +194,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Datasets
 
+* **Detection and Tracking Meet Drones Challenge** [[Paper]](https://arxiv.org/abs/2001.06303) [[Project]](http://aiskyeye.com/) [[Code]](https://github.com/VisDrone/VisDrone-Dataset)
+    * Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling ***TPAMI 2021***
 * **Tiny Object Detection in Aerial Images** [[Paper]](https://drive.google.com/file/d/1IiTp7gilwDCGr8QR_H9Covz8aVK7LXiI/view) [[Code]](https://github.com/jwwangchn/AI-TOD)
     * Jinwang Wang, Wen Yang, Haowen Guo, Ruixiang Zhang, Gui-Song Xia ***ICPR 2021***
 * **iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images** [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/DOAI/Zamir_iSAID_A_Large-scale_Dataset_for_Instance_Segmentation_in_Aerial_Images_CVPRW_2019_paper.pdf) [[Project]](https://captain-whu.github.io/iSAID/index.html)
