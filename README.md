@@ -3,7 +3,6 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Table of Contents
 
-* [Updates](#updates)
 * [Activities](#activities)
 * [Papers](#papers)
     * [Tiny Object Detection](#tiny-object-detection)
@@ -12,17 +11,6 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 * [Datasets](#datasets)
 * [Surveys](#surveys)
 * [Articles](#articles)
-
-## Updates
-
-* (04/13)
-    * add paper _QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection_
-    * add dataset _Detection and Tracking Meet Drones Challenge_
-* (03/30)
-    * add paper _Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges_
-    * add paper _MRDet: A Multi-Head Network for Accurate Oriented Object Detection in Aerial Images_
-* (03/24)
-    * add paper _Attentional Feature Refinement and Alignment Network for Aircraft Detection in SAR Imagery_
 
 ## Activities
 
@@ -33,6 +21,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2208.08738) [[Code]](https://github.com/Chasel-Tsui/mmdet-rfla)
+    * Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia ***ECCV 2022***
 * **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [[Paper]](https://arxiv.org/abs/2203.15266) [[Code]](https://github.com/obss/sahi) [[Weights]](https://github.com/fcakyon/sahi-benchmark)
     * Fatih Cagatay Akyon, Sinan Onur Altinuc, Alptekin Temizel ***ICIP 2022***
 * **Interactive Multi-Class Tiny-Object Detection** [[Paper]](https://arxiv.org/abs/2203.15266)
