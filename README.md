@@ -33,6 +33,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [[Paper]](https://arxiv.org/abs/2203.15266) [[Code]](https://github.com/obss/sahi) [[Weights]](https://github.com/fcakyon/sahi-benchmark)
+    * Fatih Cagatay Akyon, Sinan Onur Altinuc, Alptekin Temizel ***ICIP 2022***
 * **Interactive Multi-Class Tiny-Object Detection** [[Paper]](https://arxiv.org/abs/2203.15266)
     * Chunggi Lee, Seonwook Park, Heon Song, Jeongun Ryu, Sanghoon Kim, Haejoon Kim, Sérgio Pereira, Donggeun Yoo ***CVPR 2022***
 * **QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection** [[Paper]](https://arxiv.org/abs/2103.09136) [[Code]](https://github.com/ChenhongyiYang/QueryDet-PyTorch)
