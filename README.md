@@ -16,6 +16,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 * **1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)** [[Project]](https://rlq-tod.github.io/index.html)
     * August 23rd - 27th, SEC, GLASGOW
+* **Challenge on Small Object Detection for Birds 2023** [[Project]]([https://rlq-tod.github.io/index.html](http://www.mva-org.jp/mva2023/challenge)) [[Code]](https://github.com/IIM-TTIJ/MVA2023BirdDetection) 
+    * ***MVA 2023***, July 23rd - 25th 2023, ACT CITY Hamamatsu, Japan 
 
 ## Papers
 
