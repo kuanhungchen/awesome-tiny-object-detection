@@ -23,11 +23,9 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
-* **Slicing Aided Hyper Inference and Fine-Tuning for Small Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/9897990) [[Code]](https://github.com/fcakyon/small-object-detection-benchmark)
-    * Fatih Cagatay Akyon, Sinan Onur Altinuc, Alptekin Temizel ***ICIP 2022***
 * **RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2208.08738) [[Code]](https://github.com/Chasel-Tsui/mmdet-rfla)
     * Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia ***ECCV 2022***
-* **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [[Paper]](https://arxiv.org/abs/2203.15266) [[Code]](https://github.com/obss/sahi) [[Weights]](https://github.com/fcakyon/sahi-benchmark)
+* **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [[Paper]](https://arxiv.org/abs/2203.15266) [[Code]](https://github.com/obss/sahi) [[Benchmark]](https://github.com/fcakyon/small-object-detection-benchmark)
     * Fatih Cagatay Akyon, Sinan Onur Altinuc, Alptekin Temizel ***ICIP 2022***
 * **Interactive Multi-Class Tiny-Object Detection** [[Paper]](https://arxiv.org/abs/2203.15266) [[Code]](https://github.com/ChungYi347/Interactive-Multi-Class-Tiny-Object-Detection)
     * Chunggi Lee, Seonwook Park, Heon Song, Jeongun Ryu, Sanghoon Kim, Haejoon Kim, Sérgio Pereira, Donggeun Yoo ***CVPR 2022***
