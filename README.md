@@ -23,6 +23,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ### Tiny Object Detection
 
+* **Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model** [[Paper]](https://arxiv.org/abs/2208.03987) [[Code]](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)
+    * Di Wang, Qiming Zhang, Yufei Xu, Jing Zhang, Bo Du, Dacheng Tao, Liangpei Zhang ***IEEE TGRS***
 * **RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2208.08738) [[Code]](https://github.com/Chasel-Tsui/mmdet-rfla)
     * Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia ***ECCV 2022***
 * **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [[Paper]](https://arxiv.org/abs/2202.06934) [[Code]](https://github.com/obss/sahi) [[Benchmark]](https://github.com/fcakyon/small-object-detection-benchmark)
