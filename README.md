@@ -197,7 +197,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 
 ## Datasets
 * **MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results** [[Paper]](https://arxiv.org/abs/2307.09143) [[Project]](https://mva-org.jp/mva2023/challenge) [[Code]](https://github.com/IIM-TTIJ/MVA2023SmallObjectDetection4SpottingBirds)
-    * Yuki Kondo and Norimichi Ukita and Takayuki Yamaguchi and Hao-Yu Hou and Mu-Yi Shen and Chia-Chi Hsu and En-Ming Huang and Yu-Chen Huang and Yu-Cheng Xia and Chien-Yao Wang and Chun-Yi Lee and Da Huo and Marc A. Kastner and Tingwei Liu and Yasutomo Kawanishi and Takatsugu Hirayama and Takahiro Komamizu and Ichiro Ide and  Yosuke Shinya and Xinyao Liu and Guang Liang and Syusuke Yasui ***MVA 2023***
+    * Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, Takahiro Komamizu, Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui ***MVA 2023***
 * **Detection and Tracking Meet Drones Challenge** [[Paper]](https://arxiv.org/abs/2001.06303) [[Project]](http://aiskyeye.com/) [[Code]](https://github.com/VisDrone/VisDrone-Dataset)
     * Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling ***TPAMI 2021***
 * **Tiny Object Detection in Aerial Images** [[Paper]](https://drive.google.com/file/d/1IiTp7gilwDCGr8QR_H9Covz8aVK7LXiI/view) [[Code]](https://github.com/jwwangchn/AI-TOD)
