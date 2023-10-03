@@ -22,7 +22,12 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 ## Papers
 
 ### Tiny Object Detection
-
+* **Ensemble Fusion for Small Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/10215748) [[Code]](https://github.com/elsa-lab/MVATeam1)
+    * Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee ***MVA 2023***
+* **Small Object Detection for Birds with Swin Transformer** [[Paper]](https://www.cs.is.i.nagoya-u.ac.jp/users/ide/res/paper/E23-conference-huod-1pub.pdf)
+    * Da Huo, Marc A. Kastner, TingWei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, Takahiro Komamizu, Ichiro Ide ***MVA 2023***
+* **BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation** [[Paper]]https://arxiv.org/abs/2307.11748) [[Code]](https://github.com/shinya7y/UniverseNet)
+    * Yosuke Shinya ***MVA 2023***
 * **Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model** [[Paper]](https://arxiv.org/abs/2208.03987) [[Code]](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)
     * Di Wang, Qiming Zhang, Yufei Xu, Jing Zhang, Bo Du, Dacheng Tao, Liangpei Zhang ***IEEE TGRS 2022***
 * **RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection** [[Paper]](https://arxiv.org/abs/2208.08738) [[Code]](https://github.com/Chasel-Tsui/mmdet-rfla)
@@ -191,7 +196,8 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Tao Song, Leiyu Sun, Di Xie, Haiming Sun, Shiliang Pu ***ECCV 2018***
 
 ## Datasets
-
+* **MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results** [[Paper]](https://arxiv.org/abs/2307.09143) [[Project]](https://mva-org.jp/mva2023/challenge) [[Code]](https://github.com/IIM-TTIJ/MVA2023SmallObjectDetection4SpottingBirds)
+    * Yuki Kondo and Norimichi Ukita and Takayuki Yamaguchi and Hao-Yu Hou and Mu-Yi Shen and Chia-Chi Hsu and En-Ming Huang and Yu-Chen Huang and Yu-Cheng Xia and Chien-Yao Wang and Chun-Yi Lee and Da Huo and Marc A. Kastner and Tingwei Liu and Yasutomo Kawanishi and Takatsugu Hirayama and Takahiro Komamizu and Ichiro Ide and  Yosuke Shinya and Xinyao Liu and Guang Liang and Syusuke Yasui ***MVA 2023***
 * **Detection and Tracking Meet Drones Challenge** [[Paper]](https://arxiv.org/abs/2001.06303) [[Project]](http://aiskyeye.com/) [[Code]](https://github.com/VisDrone/VisDrone-Dataset)
     * Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling ***TPAMI 2021***
 * **Tiny Object Detection in Aerial Images** [[Paper]](https://drive.google.com/file/d/1IiTp7gilwDCGr8QR_H9Covz8aVK7LXiI/view) [[Code]](https://github.com/jwwangchn/AI-TOD)
