@@ -26,7 +26,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee ***MVA 2023***
 * **Small Object Detection for Birds with Swin Transformer** [[Paper]](https://www.cs.is.i.nagoya-u.ac.jp/users/ide/res/paper/E23-conference-huod-1pub.pdf)
     * Da Huo, Marc A. Kastner, TingWei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, Takahiro Komamizu, Ichiro Ide ***MVA 2023***
-* **BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation** [[Paper]]https://arxiv.org/abs/2307.11748) [[Code]](https://github.com/shinya7y/UniverseNet)
+* **BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation** [[Paper]](https://arxiv.org/abs/2307.11748) [[Code]](https://github.com/shinya7y/UniverseNet)
     * Yosuke Shinya ***MVA 2023***
 * **Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model** [[Paper]](https://arxiv.org/abs/2208.03987) [[Code]](https://github.com/ViTAE-Transformer/Remote-Sensing-RVSA)
     * Di Wang, Qiming Zhang, Yufei Xu, Jing Zhang, Bo Du, Dacheng Tao, Liangpei Zhang ***IEEE TGRS 2022***
