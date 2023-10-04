@@ -22,6 +22,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
 ## Papers
 
 ### Tiny Object Detection
+
 * **Ensemble Fusion for Small Object Detection** [[Paper]](https://ieeexplore.ieee.org/document/10215748) [[Code]](https://github.com/elsa-lab/MVATeam1)
     * Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee ***MVA 2023***
 * **Small Object Detection for Birds with Swin Transformer** [[Paper]](https://www.cs.is.i.nagoya-u.ac.jp/users/ide/res/paper/E23-conference-huod-1pub.pdf)
@@ -196,6 +197,7 @@ A curated list of ```Tiny Object Detection``` papers and related resources.
     * Tao Song, Leiyu Sun, Di Xie, Haiming Sun, Shiliang Pu ***ECCV 2018***
 
 ## Datasets
+
 * **MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results** [[Paper]](https://arxiv.org/abs/2307.09143) [[Project]](https://mva-org.jp/mva2023/challenge) [[Code]](https://github.com/IIM-TTIJ/MVA2023SmallObjectDetection4SpottingBirds)
     * Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, Takahiro Komamizu, Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui ***MVA 2023***
 * **Detection and Tracking Meet Drones Challenge** [[Paper]](https://arxiv.org/abs/2001.06303) [[Project]](http://aiskyeye.com/) [[Code]](https://github.com/VisDrone/VisDrone-Dataset)
